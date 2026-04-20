@@ -2,7 +2,7 @@
 import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 
-const digests = (await getCollection('digest')).sort((a, b) => b.data.date.localeCompare(a.data.date)).slice(0, 8);
+const digests = (await getCollection('digest')).sort((a, b) => b.data.date.localeCompare(a.data.date)).slice(0, 15);
 const deepDives = (await getCollection('deep-dive')).sort((a, b) => b.data.date.localeCompare(a.data.date)).slice(0, 15);
 
 function tagClass(source: string) {

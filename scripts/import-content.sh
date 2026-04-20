@@ -1,23 +1,72 @@
 #!/bin/bash
-# Import deep_dive markdown files into Astro content directory
-# Usage: ./scripts/import-content.sh [batch_dir]
-# Example: ./scripts/import-content.sh 2026-04-20_07
+# Import digest and deep-dive content into Astro
+# Usage: ./scripts/import-content.sh [deep_dive_batch...]
+# Without args: imports all deep-dive batches + all digest files
 
 set -euo pipefail
 
-DEEP_DIVE_DIR="$HOME/.openclaw/workspace/news-monitor/deep_dive"
-CONTENT_DIR="$(cd "$(dirname "$0")/.." && pwd)/src/content/articles"
-mkdir -p "$CONTENT_DIR"
+NEWS_DIR="$HOME/.openclaw/workspace/news-monitor"
+DEEP_DIVE_DIR="$NEWS_DIR/deep_dive"
+SITE_DIR="$(cd "$(dirname "$0")/.." && pwd)"
+DIGEST_CONTENT="$SITE_DIR/src/content/digest"
+DEEP_DIVE_CONTENT="$SITE_DIR/src/content/deep-dive"
+mkdir -p "$DIGEST_CONTENT" "$DEEP_DIVE_CONTENT"
 
-import_file() {
+# ── Digest import ──
+import_digest() {
   local file="$1"
-  local batch="$2"  # e.g. 2026-04-20_07
-  local rel="${file#*/deep_dive/$batch/}"  # e.g. hackernews/foo.md or reddit/local-llm/foo.md
-  local dir_part="${rel%%/*}"  # hackernews or reddit
   local basename="$(basename "$file" .md)"
-  local date="${batch%%_*}"  # 2026-04-20
+  # basename like: github_2026-04-20_06
+  local platform="${basename%%_*}"
+  local rest="${basename#*_}"  # 2026-04-20_06
+  local date="${rest%%_*}"     # 2026-04-20
 
-  # Determine source
+  local source
+  case "$platform" in
+    github)      source="GitHub" ;;
+    hackernews)  source="HN" ;;
+    reddit)      source="Reddit" ;;
+    producthunt) source="PH" ;;
+    *)           return ;;
+  esac
+
+  local title="${source} Trending 报告 (${date})"
+  # Try to extract title from first H1
+  local h1
+  h1=$(grep -m1 '^# ' "$file" | sed 's/^# //' || true)
+  [ -n "$h1" ] && title="$h1"
+
+  local slug="${basename}"
+  local dest="$DIGEST_CONTENT/${slug}.md"
+  [ -f "$dest" ] && { echo "  skip digest: $slug"; return; }
+
+  {
+    echo "---"
+    echo "title: \"${title//\"/\\\"}\""
+    echo "date: \"$date\""
+    echo "source: \"$source\""
+    echo "slug: \"$slug\""
+    echo "---"
+    echo ""
+    cat "$file"
+  } > "$dest"
+  echo "  added digest: $slug"
+}
+
+echo "=== Importing Digests ==="
+for f in "$NEWS_DIR"/github_*.md "$NEWS_DIR"/hackernews_*.md "$NEWS_DIR"/reddit_*.md "$NEWS_DIR"/producthunt_*.md; do
+  [ -f "$f" ] && import_digest "$f"
+done
+
+# ── Deep Dive import ──
+import_deep_dive() {
+  local file="$1"
+  local batch="$2"
+  local rel="${file#*/deep_dive/$batch/}"
+  local dir_part="${rel%%/*}"
+  local basename="$(basename "$file" .md)"
+  local date="${batch%%_*}"
+
   local source
   case "$dir_part" in
     hackernews) source="HN" ;;
@@ -28,22 +77,18 @@ import_file() {
   esac
 
   local slug="${batch}-${basename}"
-  local dest="$CONTENT_DIR/${slug}.md"
+  local dest="$DEEP_DIVE_CONTENT/${slug}.md"
 
-  # Extract title from first H1
   local title
   title=$(grep -m1 '^# ' "$file" | sed 's/^# //' || echo "$basename")
   [ -z "$title" ] && title="$basename"
 
-  # Extract summary from first paragraph after the title (skip blank lines and blockquotes)
   local summary
   summary=$(awk 'BEGIN{found=0} /^# /{found=1;next} found && /^[^>#\[]/ && NF{print;exit}' "$file" | head -c 200 || echo "")
   summary="${summary//\"/\\\"}"
 
-  # Skip if already exists
-  [ -f "$dest" ] && { echo "  skip: $slug"; return; }
+  [ -f "$dest" ] && { echo "  skip deep-dive: $slug"; return; }
 
-  # Write with frontmatter
   {
     echo "---"
     echo "title: \"${title//\"/\\\"}\""
@@ -55,9 +100,10 @@ import_file() {
     echo ""
     cat "$file"
   } > "$dest"
-  echo "  added: $slug"
+  echo "  added deep-dive: $slug"
 }
 
+echo "=== Importing Deep Dives ==="
 if [ $# -ge 1 ]; then
   batches=("$@")
 else
@@ -65,10 +111,10 @@ else
 fi
 
 for batch in "${batches[@]}"; do
-  echo "Importing batch: $batch"
+  echo "Batch: $batch"
   find "$DEEP_DIVE_DIR/$batch" -name '*.md' -type f | sort | while read -r f; do
-    import_file "$f" "$batch"
+    import_deep_dive "$f" "$batch"
   done
 done
 
-echo "Done. Content in: $CONTENT_DIR"
+echo "Done."

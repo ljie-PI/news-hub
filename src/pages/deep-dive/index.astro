@@ -1,0 +1,66 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const allArticles = await getCollection('deep-dive');
+const articles = allArticles.sort((a, b) => b.data.date.localeCompare(a.data.date));
+const sources = [...new Set(articles.map(a => a.data.source))].sort();
+const dates = [...new Set(articles.map(a => a.data.date.slice(0, 10)))].sort().reverse();
+
+function tagClass(source: string) {
+  const map: Record<string, string> = { HN: 'tag-hn', Reddit: 'tag-reddit', GitHub: 'tag-github', PH: 'tag-ph' };
+  return map[source] || '';
+}
+---
+<Base title="Deep Dive — 深度调研">
+  <h1 style="font-size:1.3rem;margin-bottom:1rem;">🔬 Deep Dive — 深度调研</h1>
+  <div class="filters" id="source-filters">
+    <button class="filter-btn active" data-source="">全部</button>
+    {sources.map(s => <button class="filter-btn" data-source={s}>{s}</button>)}
+  </div>
+  <div class="filters" id="date-filters">
+    {dates.map(d => <button class="filter-btn" data-date={d}>{d}</button>)}
+  </div>
+  {articles.map(article => (
+    <div class="article-card" data-source={article.data.source} data-date={article.data.date.slice(0, 10)}>
+      <div class="article-meta">
+        <span class={`tag ${tagClass(article.data.source)}`}>{article.data.source}</span>
+        <span>{article.data.date}</span>
+      </div>
+      <h2><a href={`/deep-dive/${article.data.slug}`}>{article.data.title}</a></h2>
+      {article.data.summary && <p class="article-summary">{article.data.summary}</p>}
+    </div>
+  ))}
+  <p id="no-results" style="color:var(--muted);margin-top:2rem;display:none;">暂无文章</p>
+  <script>
+    let activeSource = '';
+    let activeDate = '';
+    function applyFilters() {
+      const cards = document.querySelectorAll<HTMLElement>('.article-card');
+      let visible = 0;
+      cards.forEach(card => {
+        const ms = !activeSource || card.dataset.source === activeSource;
+        const md = !activeDate || card.dataset.date === activeDate;
+        card.style.display = ms && md ? '' : 'none';
+        if (ms && md) visible++;
+      });
+      document.getElementById('no-results')!.style.display = visible === 0 ? '' : 'none';
+    }
+    document.querySelectorAll('#source-filters .filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('#source-filters .filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeSource = (btn as HTMLElement).dataset.source || '';
+        applyFilters();
+      });
+    });
+    document.querySelectorAll('#date-filters .filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const d = (btn as HTMLElement).dataset.date || '';
+        if (activeDate === d) { activeDate = ''; btn.classList.remove('active'); }
+        else { document.querySelectorAll('#date-filters .filter-btn').forEach(b => b.classList.remove('active')); btn.classList.add('active'); activeDate = d; }
+        applyFilters();
+      });
+    });
+  </script>
+</Base>

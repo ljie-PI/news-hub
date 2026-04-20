@@ -1,6 +1,7 @@
 ---
 interface Props { title?: string }
-const { title = 'Deep Dive Daily' } = Astro.props;
+const { title = 'News Hub' } = Astro.props;
+const pathname = Astro.url.pathname;
 ---
 <!doctype html>
 <html lang="zh-CN" data-theme="dark">
@@ -9,10 +10,10 @@ const { title = 'Deep Dive Daily' } = Astro.props;
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{title}</title>
   <style is:global>
-    :root { --bg: #fff; --fg: #1a1a2e; --card: #f8f9fa; --border: #e0e0e0; --muted: #666; }
-    [data-theme="dark"] { --bg: #0d1117; --fg: #e6edf3; --card: #161b22; --border: #30363d; --muted: #8b949e; }
+    :root { --bg: #fff; --fg: #1a1a2e; --card: #f8f9fa; --border: #e0e0e0; --muted: #666; --accent: #58a6ff; }
+    [data-theme="dark"] { --bg: #0d1117; --fg: #e6edf3; --card: #161b22; --border: #30363d; --muted: #8b949e; --accent: #58a6ff; }
     * { margin: 0; padding: 0; box-sizing: border-box; }
-    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--fg); line-height: 1.6; max-width: 860px; margin: 0 auto; padding: 1rem; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--fg); line-height: 1.6; max-width: 900px; margin: 0 auto; padding: 0 1rem 2rem; }
     a { color: var(--fg); text-decoration: none; }
     a:hover { opacity: 0.8; }
     .tag { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: 600; color: #fff; }
@@ -20,9 +21,12 @@ const { title = 'Deep Dive Daily' } = Astro.props;
     .tag-reddit { background: #ff4500; }
     .tag-github { background: #238636; }
     .tag-ph { background: #ff6154; }
-    header { display: flex; justify-content: space-between; align-items: center; padding: 1rem 0; border-bottom: 1px solid var(--border); margin-bottom: 1.5rem; }
-    header h1 { font-size: 1.25rem; }
-    header h1 a { font-weight: 800; }
+    nav { display: flex; justify-content: space-between; align-items: center; padding: 1rem 0; border-bottom: 1px solid var(--border); margin-bottom: 1.5rem; }
+    .nav-left { display: flex; align-items: center; gap: 1.5rem; }
+    .nav-left .logo { font-size: 1.2rem; font-weight: 800; }
+    .nav-links { display: flex; gap: 1rem; font-size: 0.9rem; }
+    .nav-links a { color: var(--muted); transition: color 0.2s; }
+    .nav-links a:hover, .nav-links a.active { color: var(--fg); font-weight: 600; }
     .theme-toggle { cursor: pointer; background: none; border: 1px solid var(--border); color: var(--fg); padding: 4px 10px; border-radius: 6px; font-size: 1rem; }
     .filters { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
     .filters button { padding: 4px 12px; border: 1px solid var(--border); border-radius: 6px; font-size: 0.85rem; background: none; color: var(--fg); cursor: pointer; }
@@ -39,9 +43,20 @@ const { title = 'Deep Dive Daily' } = Astro.props;
     .prose code { background: var(--card); padding: 2px 6px; border-radius: 4px; font-size: 0.9em; }
     .prose pre { background: var(--card); padding: 1em; border-radius: 8px; overflow-x: auto; margin: 1em 0; }
     .prose pre code { background: none; padding: 0; }
-    .prose a { color: #58a6ff; text-decoration: underline; }
+    .prose a { color: var(--accent); text-decoration: underline; }
     .prose img { max-width: 100%; border-radius: 8px; }
+    .prose table { width: 100%; border-collapse: collapse; margin: 1em 0; }
+    .prose th, .prose td { border: 1px solid var(--border); padding: 0.5em 0.75em; text-align: left; font-size: 0.9em; }
+    .prose th { background: var(--card); }
     .back { display: inline-block; margin-bottom: 1rem; color: var(--muted); }
+    .section-card { border: 1px solid var(--border); border-radius: 12px; padding: 1.5rem; background: var(--card); margin-bottom: 1.5rem; }
+    .section-card h2 { font-size: 1.1rem; margin-bottom: 0.75rem; }
+    .section-card h2 a { color: var(--accent); }
+    .section-card .preview-item { padding: 0.4rem 0; border-bottom: 1px solid var(--border); font-size: 0.9rem; }
+    .section-card .preview-item:last-child { border-bottom: none; }
+    .section-card .more { display: inline-block; margin-top: 0.75rem; font-size: 0.85rem; color: var(--accent); }
+    .home-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
+    @media (max-width: 640px) { .home-grid { grid-template-columns: 1fr; } }
   </style>
   <script is:inline>
     const t = localStorage.getItem('theme') || 'dark';
@@ -49,10 +64,17 @@ const { title = 'Deep Dive Daily' } = Astro.props;
   </script>
 </head>
 <body>
-  <header>
-    <h1><a href="/">🔍 Deep Dive Daily</a></h1>
+  <nav>
+    <div class="nav-left">
+      <span class="logo"><a href="/">📡 News Hub</a></span>
+      <div class="nav-links">
+        <a href="/" class={pathname === '/' ? 'active' : ''}>首页</a>
+        <a href="/digest" class={pathname.startsWith('/digest') ? 'active' : ''}>Digest</a>
+        <a href="/deep-dive" class={pathname.startsWith('/deep-dive') ? 'active' : ''}>Deep Dive</a>
+      </div>
+    </div>
     <button class="theme-toggle" id="themeBtn" aria-label="Toggle theme">🌙</button>
-  </header>
+  </nav>
   <slot />
   <script is:inline>
     const btn = document.getElementById('themeBtn');

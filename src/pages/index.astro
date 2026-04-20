@@ -2,83 +2,37 @@
 import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 
-const allArticles = await getCollection('articles');
-const articles = allArticles.sort((a, b) => b.data.date.localeCompare(a.data.date));
-
-const sources = [...new Set(articles.map(a => a.data.source))].sort();
-const dates = [...new Set(articles.map(a => a.data.date.slice(0, 10)))].sort().reverse();
+const digests = (await getCollection('digest')).sort((a, b) => b.data.date.localeCompare(a.data.date)).slice(0, 5);
+const deepDives = (await getCollection('deep-dive')).sort((a, b) => b.data.date.localeCompare(a.data.date)).slice(0, 5);
 
 function tagClass(source: string) {
   const map: Record<string, string> = { HN: 'tag-hn', Reddit: 'tag-reddit', GitHub: 'tag-github', PH: 'tag-ph' };
   return map[source] || '';
 }
 ---
-<Base title="Deep Dive Daily">
-  <div class="filters" id="source-filters">
-    <button class="filter-btn active" data-source="">全部</button>
-    {sources.map(s => (
-      <button class="filter-btn" data-source={s}>{s}</button>
-    ))}
-  </div>
-  <div class="filters" id="date-filters">
-    {dates.map(d => (
-      <button class="filter-btn" data-date={d}>{d}</button>
-    ))}
-  </div>
-  {articles.map(article => (
-    <div class="article-card" data-source={article.data.source} data-date={article.data.date.slice(0, 10)}>
-      <div class="article-meta">
-        <span class={`tag ${tagClass(article.data.source)}`}>{article.data.source}</span>
-        <span>{article.data.date}</span>
-      </div>
-      <h2><a href={`/articles/${article.data.slug}`}>{article.data.title}</a></h2>
-      {article.data.summary && <p class="article-summary">{article.data.summary}</p>}
+<Base title="News Hub">
+  <div class="home-grid">
+    <div class="section-card">
+      <h2>📋 <a href="/digest">Digest — 每日简报</a></h2>
+      <p style="font-size:0.85rem;color:var(--muted);margin-bottom:0.75rem;">GitHub / HN / Reddit / PH 平台日报</p>
+      {digests.map(d => (
+        <div class="preview-item">
+          <span class={`tag ${tagClass(d.data.source)}`}>{d.data.source}</span>
+          <a href={`/digest/${d.data.slug}`}> {d.data.title}</a>
+        </div>
+      ))}
+      <a class="more" href="/digest">查看全部 →</a>
     </div>
-  ))}
-  <p id="no-results" style="color:var(--muted);margin-top:2rem;display:none;">暂无文章</p>
-
-  <script>
-    let activeSource = '';
-    let activeDate = '';
-
-    function applyFilters() {
-      const cards = document.querySelectorAll<HTMLElement>('.article-card');
-      let visible = 0;
-      cards.forEach(card => {
-        const matchSource = !activeSource || card.dataset.source === activeSource;
-        const matchDate = !activeDate || card.dataset.date === activeDate;
-        if (matchSource && matchDate) {
-          card.style.display = '';
-          visible++;
-        } else {
-          card.style.display = 'none';
-        }
-      });
-      document.getElementById('no-results')!.style.display = visible === 0 ? '' : 'none';
-    }
-
-    document.querySelectorAll('#source-filters .filter-btn').forEach(btn => {
-      btn.addEventListener('click', () => {
-        document.querySelectorAll('#source-filters .filter-btn').forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-        activeSource = (btn as HTMLElement).dataset.source || '';
-        applyFilters();
-      });
-    });
-
-    document.querySelectorAll('#date-filters .filter-btn').forEach(btn => {
-      btn.addEventListener('click', () => {
-        const d = (btn as HTMLElement).dataset.date || '';
-        if (activeDate === d) {
-          activeDate = '';
-          btn.classList.remove('active');
-        } else {
-          document.querySelectorAll('#date-filters .filter-btn').forEach(b => b.classList.remove('active'));
-          btn.classList.add('active');
-          activeDate = d;
-        }
-        applyFilters();
-      });
-    });
-  </script>
+    <div class="section-card">
+      <h2>🔬 <a href="/deep-dive">Deep Dive — 深度调研</a></h2>
+      <p style="font-size:0.85rem;color:var(--muted);margin-bottom:0.75rem;">热门话题的深度分析</p>
+      {deepDives.map(d => (
+        <div class="preview-item">
+          <span class={`tag ${tagClass(d.data.source)}`}>{d.data.source}</span>
+          <a href={`/deep-dive/${d.data.slug}`}> {d.data.title}</a>
+        </div>
+      ))}
+      <a class="more" href="/deep-dive">查看全部 →</a>
+    </div>
+  </div>
 </Base>

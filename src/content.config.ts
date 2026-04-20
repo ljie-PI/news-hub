@@ -1,8 +1,18 @@
 import { z, defineCollection } from 'astro:content';
 import { glob } from 'astro/loaders';
 
-const articles = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/articles' }),
+const digest = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/digest' }),
+  schema: z.object({
+    title: z.string(),
+    date: z.string(),
+    source: z.string(),
+    slug: z.string(),
+  }),
+});
+
+const deepDive = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/deep-dive' }),
   schema: z.object({
     title: z.string(),
     date: z.string(),
@@ -12,4 +22,4 @@ const articles = defineCollection({
   }),
 });
 
-export const collections = { articles };
+export const collections = { digest, 'deep-dive': deepDive };

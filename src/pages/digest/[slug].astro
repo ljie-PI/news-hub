@@ -1,0 +1,30 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const digests = await getCollection('digest');
+  return digests.map(item => ({
+    params: { slug: item.data.slug },
+    props: { item },
+  }));
+}
+
+const { item } = Astro.props;
+const { Content } = await render(item);
+
+function tagClass(source: string) {
+  const map: Record<string, string> = { HN: 'tag-hn', Reddit: 'tag-reddit', GitHub: 'tag-github', PH: 'tag-ph' };
+  return map[source] || '';
+}
+---
+<Base title={item.data.title}>
+  <a class="back" href="/digest">← 返回 Digest</a>
+  <div class="article-meta" style="margin-bottom:1rem;">
+    <span class={`tag ${tagClass(item.data.source)}`}>{item.data.source}</span>
+    <span>{item.data.date}</span>
+  </div>
+  <article class="prose">
+    <Content />
+  </article>
+</Base>

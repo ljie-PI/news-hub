@@ -1,5 +1,5 @@
 ---
-title: "Product Hunt 热门产品报告"
+title: "Product Hunt 日报 2026-04-20"
 date: "2026-04-20"
 generated: "2026-04-20 06:00"
 source: "PH"

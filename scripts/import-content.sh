@@ -32,11 +32,15 @@ import_digest() {
     *)           return ;;
   esac
 
-  local title="${source} Trending 报告 (${date})"
-  # Try to extract title from first H1
-  local h1
-  h1=$(grep -m1 '^# ' "$file" | sed 's/^# //' || true)
-  [ -n "$h1" ] && title="$h1"
+  local source_name
+  case "$platform" in
+    github)      source_name="GitHub Trending" ;;
+    hackernews)  source_name="Hacker News" ;;
+    reddit)      source_name="Reddit" ;;
+    producthunt) source_name="Product Hunt" ;;
+    *)           source_name="$source" ;;
+  esac
+  local title="${source_name} 日报 ${date}"
 
   local slug="${basename}"
   local dest="$DIGEST_CONTENT/${slug}.md"

@@ -5,18 +5,8 @@ import { getCollection } from 'astro:content';
 const allArticles = await getCollection('articles');
 const articles = allArticles.sort((a, b) => b.data.date.localeCompare(a.data.date));
 
-const url = Astro.url;
-const sourceFilter = url.searchParams.get('source') || '';
-const dateFilter = url.searchParams.get('date') || '';
-
 const sources = [...new Set(articles.map(a => a.data.source))].sort();
 const dates = [...new Set(articles.map(a => a.data.date.slice(0, 10)))].sort().reverse();
-
-const filtered = articles.filter(a => {
-  if (sourceFilter && a.data.source !== sourceFilter) return false;
-  if (dateFilter && !a.data.date.startsWith(dateFilter)) return false;
-  return true;
-});
 
 function tagClass(source: string) {
   const map: Record<string, string> = { HN: 'tag-hn', Reddit: 'tag-reddit', GitHub: 'tag-github', PH: 'tag-ph' };
@@ -24,19 +14,19 @@ function tagClass(source: string) {
 }
 ---
 <Base title="Deep Dive Daily">
-  <div class="filters">
-    <a href="/" class:list={[{ active: !sourceFilter && !dateFilter }]}>全部</a>
+  <div class="filters" id="source-filters">
+    <button class="filter-btn active" data-source="">全部</button>
     {sources.map(s => (
-      <a href={`/?source=${s}`} class:list={[{ active: sourceFilter === s }]}>{s}</a>
+      <button class="filter-btn" data-source={s}>{s}</button>
     ))}
   </div>
-  <div class="filters">
+  <div class="filters" id="date-filters">
     {dates.map(d => (
-      <a href={dateFilter === d ? '/' : `/?date=${d}`} class:list={[{ active: dateFilter === d }]}>{d}</a>
+      <button class="filter-btn" data-date={d}>{d}</button>
     ))}
   </div>
-  {filtered.map(article => (
-    <div class="article-card">
+  {articles.map(article => (
+    <div class="article-card" data-source={article.data.source} data-date={article.data.date.slice(0, 10)}>
       <div class="article-meta">
         <span class={`tag ${tagClass(article.data.source)}`}>{article.data.source}</span>
         <span>{article.data.date}</span>
@@ -45,5 +35,50 @@ function tagClass(source: string) {
       {article.data.summary && <p class="article-summary">{article.data.summary}</p>}
     </div>
   ))}
-  {filtered.length === 0 && <p style="color:var(--muted);margin-top:2rem;">暂无文章</p>}
+  <p id="no-results" style="color:var(--muted);margin-top:2rem;display:none;">暂无文章</p>
+
+  <script>
+    let activeSource = '';
+    let activeDate = '';
+
+    function applyFilters() {
+      const cards = document.querySelectorAll<HTMLElement>('.article-card');
+      let visible = 0;
+      cards.forEach(card => {
+        const matchSource = !activeSource || card.dataset.source === activeSource;
+        const matchDate = !activeDate || card.dataset.date === activeDate;
+        if (matchSource && matchDate) {
+          card.style.display = '';
+          visible++;
+        } else {
+          card.style.display = 'none';
+        }
+      });
+      document.getElementById('no-results')!.style.display = visible === 0 ? '' : 'none';
+    }
+
+    document.querySelectorAll('#source-filters .filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('#source-filters .filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeSource = (btn as HTMLElement).dataset.source || '';
+        applyFilters();
+      });
+    });
+
+    document.querySelectorAll('#date-filters .filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const d = (btn as HTMLElement).dataset.date || '';
+        if (activeDate === d) {
+          activeDate = '';
+          btn.classList.remove('active');
+        } else {
+          document.querySelectorAll('#date-filters .filter-btn').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          activeDate = d;
+        }
+        applyFilters();
+      });
+    });
+  </script>
 </Base>

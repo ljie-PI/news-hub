@@ -1,6 +1,7 @@
 ---
 title: "Claude要求人脸识别+身份证验证，LocalLLaMA用户：这正是我们坚持本地化的理由"
 date: "2026-04-17"
+generated: "2026-04-17 09:00"
 source: "Reddit"
 slug: "2026-04-17_09-claude_identity_verification"
 summary: "---"

@@ -1,6 +1,7 @@
 ---
 title: "AI Hedge Fund：用多 Agent 模拟华尔街顶级投资大脑"
 date: "2026-04-19"
+generated: "2026-04-19 07:00"
 source: "GitHub"
 slug: "2026-04-19_07-virattt-ai-hedge-fund"
 summary: "**virattt/ai-hedge-fund** 是一个开源的 AI 对冲基金概念验证项目，核心定位是**教育与研究**。它试图解决的痛点很明确：普通开发者和投资爱好者想了解 AI "

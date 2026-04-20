@@ -22,7 +22,7 @@ function tagClass(source: string) {
   <a class="back" href="/deep-dive">← 返回 Deep Dive</a>
   <div class="article-meta" style="margin-bottom:1rem;">
     <span class={`tag ${tagClass(article.data.source)}`}>{article.data.source}</span>
-    <span>{article.data.date}</span>
+    <span>{article.data.generated || article.data.date}</span>
   </div>
   <article class="prose">
     <Content />

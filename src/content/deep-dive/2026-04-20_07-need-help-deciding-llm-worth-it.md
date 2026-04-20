@@ -1,6 +1,7 @@
 ---
 title: "当编程能力因意外受损，LLM 能否成为\"第二大脑\"？"
 date: "2026-04-20"
+generated: "2026-04-20 07:00"
 source: "Reddit"
 slug: "2026-04-20_07-need-help-deciding-llm-worth-it"
 summary: "---"

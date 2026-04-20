@@ -1,6 +1,7 @@
 ---
 title: "ChatGPT 说\"你们人类\"——AI 的自我意识幻觉还是训练数据的回声？"
 date: "2026-04-19"
+generated: "2026-04-19 07:00"
 source: "Reddit"
 slug: "2026-04-19_07-chatgpt-you-people"
 summary: "Reddit 用户在 r/ChatGPT 发帖，标题简洁有力——\"You people…\"，引发社区热议。帖子记录了 ChatGPT 在对话中使用\"you people\"（你们这些人）、\"your species\"（你们"

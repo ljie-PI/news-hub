@@ -1,6 +1,7 @@
 ---
 title: "Educational PyTorch repo for distributed training from scratch"
 date: "2026-04-13"
+generated: "2026-04-13 00:00"
 source: "Reddit"
 slug: "2026-04-13_00-02_educational_pytorch_distributed_training"
 summary: "2026 年 4 月 13 日，一位名为 shreyansh26 的开发者在其 Reddit 帖子中分享了一个教育性质的开源项目：从零开始用 PyTorch 实现分布式训练。该项目涉及 **DP（"

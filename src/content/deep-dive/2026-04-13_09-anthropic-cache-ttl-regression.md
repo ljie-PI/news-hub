@@ -1,6 +1,7 @@
 ---
 title: "Anthropic 悄然将缓存 TTL 从 1 小时降至 5 分钟（3 月 6 日）"
 date: "2026-04-13"
+generated: "2026-04-13 09:00"
 source: "HN"
 slug: "2026-04-13_09-anthropic-cache-ttl-regression"
 summary: "**日期**: 2026-04-13 | **来源**: Hacker News | **票数**: 435 | **评论**: 331"

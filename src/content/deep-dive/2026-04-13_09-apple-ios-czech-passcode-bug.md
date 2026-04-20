@@ -1,6 +1,7 @@
 ---
 title: "Apple iOS 更新删除捷克字符，用户被永久锁在手机外"
 date: "2026-04-13"
+generated: "2026-04-13 09:00"
 source: "HN"
 slug: "2026-04-13_09-apple-ios-czech-passcode-bug"
 summary: "**日期**: 2026-04-13 | **来源**: Hacker News | **票数**: 319 | **评论**: 208"

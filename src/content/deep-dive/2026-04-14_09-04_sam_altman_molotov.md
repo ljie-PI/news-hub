@@ -1,6 +1,7 @@
 ---
 title: "Sam Altman's Molotov attack suspect"
 date: "2026-04-14"
+generated: "2026-04-14 09:00"
 source: "Reddit"
 slug: "2026-04-14_09-04_sam_altman_molotov"
 summary: "**来源**: r/ChatGPT / 多家主流媒体  "

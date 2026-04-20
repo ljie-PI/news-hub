@@ -1,6 +1,7 @@
 ---
 title: "DIY 自制软饮料：从零开始做可乐"
 date: "2026-04-17"
+generated: "2026-04-17 09:00"
 source: "HN"
 slug: "2026-04-17_09-13_diy-soft-drinks"
 summary: "---"

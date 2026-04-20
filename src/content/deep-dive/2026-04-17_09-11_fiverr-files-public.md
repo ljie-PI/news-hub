@@ -1,6 +1,7 @@
 ---
 title: "Tell HN: Fiverr 将客户文件公开且可被搜索"
 date: "2026-04-17"
+generated: "2026-04-17 09:00"
 source: "HN"
 slug: "2026-04-17_09-11_fiverr-files-public"
 summary: "---"

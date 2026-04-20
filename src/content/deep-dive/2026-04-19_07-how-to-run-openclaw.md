@@ -1,6 +1,7 @@
 ---
 title: "深度解读：Reddit 热帖「How to run OpenClaw」—— AI Agent 本地部署的社区探讨"
 date: "2026-04-19"
+generated: "2026-04-19 07:00"
 source: "Reddit"
 slug: "2026-04-19_07-how-to-run-openclaw"
 summary: "---"

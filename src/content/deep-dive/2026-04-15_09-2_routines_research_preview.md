@@ -1,6 +1,7 @@
 ---
 title: "Claude Code Routines 研究预览：定时任务、API 触发与 GitHub Webhook 三合一"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "Reddit"
 slug: "2026-04-15_09-2_routines_research_preview"
 summary: "**来源**: r/ClaudeCode | 2026-04-14"

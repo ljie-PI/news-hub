@@ -1,6 +1,7 @@
 ---
 title: "Finally happened to me and my colleagues. Seeing severely degraded performance."
 date: "2026-04-13"
+generated: "2026-04-13 00:00"
 source: "Reddit"
 slug: "2026-04-13_00-01_claude_degraded_performance"
 summary: "2026 年 4 月，r/ClaudeCode（cross-posted 至 r/vibecoding）上一则题为 “Finally happened to me and my colleagues. Seeing severely degraded performance.” 的帖子引爆了开发者社区�"

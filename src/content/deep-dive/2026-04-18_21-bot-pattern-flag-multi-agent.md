@@ -1,6 +1,7 @@
 ---
 title: "AI Agent 外联反检测：当多智能体遇上平台风控"
 date: "2026-04-18"
+generated: "2026-04-18 21:00"
 source: "Reddit"
 slug: "2026-04-18_21-bot-pattern-flag-multi-agent"
 summary: "---"

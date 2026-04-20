@@ -6,6 +6,7 @@ const digest = defineCollection({
   schema: z.object({
     title: z.string(),
     date: z.string(),
+    generated: z.string().optional(),
     source: z.string(),
     slug: z.string(),
   }),
@@ -16,6 +17,7 @@ const deepDive = defineCollection({
   schema: z.object({
     title: z.string(),
     date: z.string(),
+    generated: z.string().optional(),
     source: z.string(),
     slug: z.string(),
     summary: z.string().optional(),

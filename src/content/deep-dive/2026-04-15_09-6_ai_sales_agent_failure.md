@@ -1,6 +1,7 @@
 ---
 title: "\"更聪明\"不等于更有效：AI 销售 Agent 失败案例与反思"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "Reddit"
 slug: "2026-04-15_09-6_ai_sales_agent_failure"
 summary: "**来源**: r/AI_Agents | 2026-04-14"

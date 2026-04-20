@@ -1,6 +1,7 @@
 ---
 title: "美国上诉法院裁定：158 年家庭蒸馏禁令违宪"
 date: "2026-04-13"
+generated: "2026-04-13 09:00"
 source: "HN"
 slug: "2026-04-13_09-home-distilling-unconstitutional"
 summary: "**日期**: 2026-04-13 | **来源**: Hacker News | **票数**: 220 | **评论**: 225"

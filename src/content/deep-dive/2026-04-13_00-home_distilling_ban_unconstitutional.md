@@ -1,6 +1,7 @@
 ---
 title: "美国上诉法院推翻 158 年家庭蒸馏禁令——税收权力与个人自由的边界之战"
 date: "2026-04-13"
+generated: "2026-04-13 00:00"
 source: "HN"
 slug: "2026-04-13_00-home_distilling_ban_unconstitutional"
 summary: "2026 年 4 月 10 日，美国联邦第五巡回上诉法院（5th U.S. Circuit Court of Appeals）作出裁决：一项始于 1868 年（南北战争重建时期）、长达近 158 年的联邦家庭"

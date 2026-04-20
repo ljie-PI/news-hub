@@ -1,6 +1,7 @@
 ---
 title: "Filing the corners off my MacBooks"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "HN"
 slug: "2026-04-15_09-3_filing_corners_macbooks"
 summary: "**得分：1398 | 评论：675 | 作者：normanvalentine**"

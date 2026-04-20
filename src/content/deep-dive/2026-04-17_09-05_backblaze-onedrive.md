@@ -1,6 +1,7 @@
 ---
 title: "Backblaze 悄悄停止备份 OneDrive/Dropbox 文件夹"
 date: "2026-04-17"
+generated: "2026-04-17 09:00"
 source: "HN"
 slug: "2026-04-17_09-05_backblaze-onedrive"
 summary: "---"

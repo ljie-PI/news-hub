@@ -1,6 +1,7 @@
 ---
 title: "Notion 公开页面泄露所有编辑者邮箱地址：一个存在多年的隐私漏洞"
 date: "2026-04-20"
+generated: "2026-04-20 07:00"
 source: "HN"
 slug: "2026-04-20_07-notion-leaks-email-addresses"
 summary: "---"

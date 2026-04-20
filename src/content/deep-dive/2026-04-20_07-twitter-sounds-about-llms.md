@@ -1,6 +1,7 @@
 ---
 title: "「Twitter 上人人谈 LLM 都是这个味儿」—— LocalLLaMA 社区的辛辣讽刺"
 date: "2026-04-20"
+generated: "2026-04-20 07:00"
 source: "Reddit"
 slug: "2026-04-20_07-twitter-sounds-about-llms"
 summary: "---"

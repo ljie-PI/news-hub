@@ -1,6 +1,7 @@
 ---
 title: "美国上诉法院裁定158年历史的家庭蒸馏酒禁令违宪"
 date: "2026-04-14"
+generated: "2026-04-14 09:00"
 source: "HN"
 slug: "2026-04-14_09-09_home_distilling_ban_unconstitutional"
 summary: "**来源**: NY Post / Reuters | 291分 217评论 | 2026-04-14"

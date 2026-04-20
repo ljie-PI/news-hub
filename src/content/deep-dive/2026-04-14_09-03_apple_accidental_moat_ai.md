@@ -1,6 +1,7 @@
 ---
 title: "Apple 的意外护城河：AI\"输家\"或许最终赢得全局"
 date: "2026-04-14"
+generated: "2026-04-14 09:00"
 source: "HN"
 slug: "2026-04-14_09-03_apple_accidental_moat_ai"
 summary: "**来源**: adlrocha.substack.com | 389分 346评论 | 2026-04-14"

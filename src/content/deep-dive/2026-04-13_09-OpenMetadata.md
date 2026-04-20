@@ -1,6 +1,7 @@
 ---
 title: "OpenMetadata — 统一元数据平台"
 date: "2026-04-13"
+generated: "2026-04-13 09:00"
 source: "GitHub"
 slug: "2026-04-13_09-OpenMetadata"
 summary: "**仓库**: https://github.com/open-metadata/OpenMetadata  "

@@ -1,6 +1,7 @@
 ---
 title: "小模型也发现了 Mythos 发现的漏洞"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "HN"
 slug: "2026-04-15_09-7_small_models_mythos_vulnerabilities"
 summary: "**得分：1271 | 评论：340 | 作者：dominicq**"

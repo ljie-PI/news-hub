@@ -1,6 +1,7 @@
 ---
 title: "DaVinci Resolve – Photo"
 date: "2026-04-17"
+generated: "2026-04-17 09:00"
 source: "HN"
 slug: "2026-04-17_09-04_davinci-resolve-photo"
 summary: "---"

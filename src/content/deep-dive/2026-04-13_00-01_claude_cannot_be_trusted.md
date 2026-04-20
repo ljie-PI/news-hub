@@ -1,6 +1,7 @@
 ---
 title: "Claude cannot be trusted to perform complex engineering tasks — AMD 研究引发社区信任危机"
 date: "2026-04-13"
+generated: "2026-04-13 00:00"
 source: "Reddit"
 slug: "2026-04-13_00-01_claude_cannot_be_trusted"
 summary: "2026 年 4 月初，AMD AI 部门主管 Stella Laurenzo 在其 GitHub issue 中公布了一项针对 Anthropic Claude Code 的大规模遥测分析。研究团队追踪了自 2026 年 1 月 30 日至 "

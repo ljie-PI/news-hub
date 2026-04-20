@@ -1,6 +1,7 @@
 ---
 title: "柏林13岁少年捡到一枚2300年前的特洛伊古币——当古希腊遇上北欧田野"
 date: "2026-04-18"
+generated: "2026-04-18 21:00"
 source: "HN"
 slug: "2026-04-18_21-middle-schooler-finds-troy-coin-berlin"
 summary: "---"

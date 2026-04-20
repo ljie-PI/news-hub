@@ -1,6 +1,7 @@
 ---
 title: "Claude Pro 限速让用户退款转投本地 LLM"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "Reddit"
 slug: "2026-04-15_09-9_claude_pro_rate_limit_local_llm"
 summary: "**来源**: r/LocalLLM | 2026-04-14"

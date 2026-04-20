@@ -1,6 +1,7 @@
 ---
 title: "virattt/ai-hedge-fund — AI 驱动的对冲基金模拟系统"
 date: "2026-04-14"
+generated: "2026-04-14 09:00"
 source: "GitHub"
 slug: "2026-04-14_09-ai-hedge-fund"
 summary: "`ai-hedge-fund` 是一个**教育性的 AI 对冲基金概念验证项目**，用多个 AI Agent 模拟知名投资大师的投资逻辑，协同做出股票交易决策。"

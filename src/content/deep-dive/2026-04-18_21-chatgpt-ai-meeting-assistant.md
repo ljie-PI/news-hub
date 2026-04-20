@@ -1,6 +1,7 @@
 ---
 title: "ChatGPT + AI 会议助手：职场效率组合拳正在兴起"
 date: "2026-04-18"
+generated: "2026-04-18 21:00"
 source: "Reddit"
 slug: "2026-04-18_21-chatgpt-ai-meeting-assistant"
 summary: "---"

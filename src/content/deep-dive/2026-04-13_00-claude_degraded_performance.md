@@ -1,6 +1,7 @@
 ---
 title: "\"终于轮到我们了\"：开发者集体遭遇 Claude Code 性能断崖式下跌"
 date: "2026-04-13"
+generated: "2026-04-13 00:00"
 source: "Reddit"
 slug: "2026-04-13_00-claude_degraded_performance"
 summary: "2026 年 4 月，r/ClaudeCode 上一篇帖子标题为「Finally happened to me and my colleagues. Seeing severely degraded performance」。作者所在公司大部分开发者使用 Claude Max20 计"

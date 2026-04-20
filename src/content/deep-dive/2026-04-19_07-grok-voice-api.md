@@ -1,6 +1,7 @@
 ---
 title: "Grok Voice API：xAI 全面杀入语音 API 赛道"
 date: "2026-04-19"
+generated: "2026-04-19 07:00"
 source: "PH"
 slug: "2026-04-19_07-grok-voice-api"
 summary: "2026 年 4 月 18 日，xAI 旗下的 **Grok Voice API** 登上 Product Hunt，正式面向开发者社区推广其独立的语音转文字（STT）和文字转语音（TTS）API 服务。这并非 xA"

@@ -1,6 +1,7 @@
 ---
 title: "Claude Opus 4.6 → 4.7 系统提示词变更深度解读"
 date: "2026-04-20"
+generated: "2026-04-20 07:00"
 source: "HN"
 slug: "2026-04-20_07-claude-opus-system-prompt-changes"
 summary: "2026 年 4 月 16 日，Anthropic 发布了 Claude Opus 4.7。作为业内唯一公开系统提示词（system prompt）的主要 AI 实验室，Anthropic 在其平台文档中同步更新了 Claude.a"

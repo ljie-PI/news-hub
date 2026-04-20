@@ -1,6 +1,7 @@
 ---
 title: "13 · google-ai-edge/gallery"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "GitHub"
 slug: "2026-04-15_09-13_google-ai-edge-gallery"
 summary: "**Google AI Edge Gallery** 是 Google 官方出品的端侧 AI 展示应用，让用户在手机本地运行开源 LLM（主打 Gemma 系列），**无网络连接、零隐私泄露、响应低延迟*"

@@ -1,6 +1,7 @@
 ---
 title: "阿西莫夫《最后的问题》重返 HN 头版：一篇 70 年前的短篇为何仍能引发热议？"
 date: "2026-04-18"
+generated: "2026-04-18 21:00"
 source: "HN"
 slug: "2026-04-18_21-isaac-asimov-the-last-question"
 summary: "---"

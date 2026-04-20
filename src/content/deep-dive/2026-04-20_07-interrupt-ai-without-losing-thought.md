@@ -1,6 +1,7 @@
 ---
 title: "打断 AI 而不丢失思维链：一种本地推理的新交互范式"
 date: "2026-04-20"
+generated: "2026-04-20 07:00"
 source: "Reddit"
 slug: "2026-04-20_07-interrupt-ai-without-losing-thought"
 summary: "Reddit 用户在 r/LocalLLM 发帖分享了一种新方法，可以在 AI 生成过程中随时打断它，而不会丢失其已经建立的思维链（Chain of Thought）。这个问题在本地 LLM "

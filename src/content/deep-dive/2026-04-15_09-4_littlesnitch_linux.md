@@ -1,6 +1,7 @@
 ---
 title: "LittleSnitch for Linux"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "HN"
 slug: "2026-04-15_09-4_littlesnitch_linux"
 summary: "**得分：1371 | 评论：456 | 作者：pluc**"

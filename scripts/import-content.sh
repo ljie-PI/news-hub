@@ -20,6 +20,8 @@ import_digest() {
   local platform="${basename%%_*}"
   local rest="${basename#*_}"  # 2026-04-20_06
   local date="${rest%%_*}"     # 2026-04-20
+  local hour="${rest##*_}"      # 06
+  local generated="${date} ${hour}:00"
 
   local source
   case "$platform" in
@@ -44,6 +46,7 @@ import_digest() {
     echo "---"
     echo "title: \"${title//\"/\\\"}\""
     echo "date: \"$date\""
+    echo "generated: \"$generated\""
     echo "source: \"$source\""
     echo "slug: \"$slug\""
     echo "---"
@@ -66,6 +69,8 @@ import_deep_dive() {
   local dir_part="${rel%%/*}"
   local basename="$(basename "$file" .md)"
   local date="${batch%%_*}"
+  local hour="${batch##*_}"
+  local generated="${date} ${hour}:00"
 
   local source
   case "$dir_part" in
@@ -93,6 +98,7 @@ import_deep_dive() {
     echo "---"
     echo "title: \"${title//\"/\\\"}\""
     echo "date: \"$date\""
+    echo "generated: \"$generated\""
     echo "source: \"$source\""
     echo "slug: \"$slug\""
     [ -n "$summary" ] && echo "summary: \"$summary\""

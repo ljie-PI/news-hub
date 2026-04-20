@@ -25,7 +25,7 @@ function tagClass(source: string) {
     <div class="article-card" data-source={article.data.source} data-date={article.data.date.slice(0, 10)}>
       <div class="article-meta">
         <span class={`tag ${tagClass(article.data.source)}`}>{article.data.source}</span>
-        <span>{article.data.date}</span>
+        <span>{article.data.generated || article.data.date}</span>
       </div>
       <h2><a href={`/deep-dive/${article.data.slug}`}>{article.data.title}</a></h2>
       {article.data.summary && <p class="article-summary">{article.data.summary}</p>}

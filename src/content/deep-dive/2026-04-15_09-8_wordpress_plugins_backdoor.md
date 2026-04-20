@@ -1,6 +1,7 @@
 ---
 title: "有人购买了 30 个 WordPress 插件并在所有插件中植入后门"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "HN"
 slug: "2026-04-15_09-8_wordpress_plugins_backdoor"
 summary: "**得分：1145 | 评论：319 | 作者：speckx**"

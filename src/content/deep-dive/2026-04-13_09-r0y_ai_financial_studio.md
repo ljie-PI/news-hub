@@ -1,6 +1,7 @@
 ---
 title: "R0Y — AI Financial Studio — Product Hunt 深度报告"
 date: "2026-04-13"
+generated: "2026-04-13 09:00"
 source: "PH"
 slug: "2026-04-13_09-r0y_ai_financial_studio"
 summary: "**日期**: 2026-04-13 | **票数**: 166 | **排名**: #4"

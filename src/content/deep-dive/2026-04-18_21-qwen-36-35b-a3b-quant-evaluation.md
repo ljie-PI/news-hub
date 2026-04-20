@@ -1,6 +1,7 @@
 ---
 title: "Qwen3.6-35B-A3B Q4_K_M 量化评测：3B 激活参数跑出旗舰级性能？"
 date: "2026-04-18"
+generated: "2026-04-18 21:00"
 source: "Reddit"
 slug: "2026-04-18_21-qwen-36-35b-a3b-quant-evaluation"
 summary: "---"

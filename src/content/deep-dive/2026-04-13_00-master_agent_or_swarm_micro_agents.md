@@ -1,6 +1,7 @@
 ---
 title: "大管家 Agent 还是蜂群微 Agent？AI 代理架构的路线之争"
 date: "2026-04-13"
+generated: "2026-04-13 00:00"
 source: "Reddit"
 slug: "2026-04-13_00-master_agent_or_swarm_micro_agents"
 summary: "2026 年 4 月，r/AI_Agents 上一则提问切中了当前 agent 赛道最热的架构 debate：未来的生产力工具，究竟是「一个训练有素的超级 LLM + 100 个工具」的 monolithic"

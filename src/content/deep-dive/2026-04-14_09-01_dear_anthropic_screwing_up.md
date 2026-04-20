@@ -1,6 +1,7 @@
 ---
 title: "Dear Anthropic: You're screwing up. Big time."
 date: "2026-04-14"
+generated: "2026-04-14 09:00"
 source: "Reddit"
 slug: "2026-04-14_09-01_dear_anthropic_screwing_up"
 summary: "**来源**: r/ClaudeCode  "

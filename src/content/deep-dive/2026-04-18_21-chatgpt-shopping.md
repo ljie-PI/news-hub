@@ -1,6 +1,7 @@
 ---
 title: "ChatGPT Shopping 深度分析：当 AI 助手变身「数字导购」，电商格局将如何重塑？"
 date: "2026-04-18"
+generated: "2026-04-18 21:00"
 source: "PH"
 slug: "2026-04-18_21-chatgpt-shopping"
 summary: "---"

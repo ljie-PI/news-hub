@@ -1,6 +1,7 @@
 ---
 title: "深度解读：为什么日本拥有如此出色的铁路系统？"
 date: "2026-04-19"
+generated: "2026-04-19 07:00"
 source: "HN"
 slug: "2026-04-19_07-why-japan-has-such-good-railways"
 summary: "Works in Progress 杂志近日发布了一篇长文《Why Japan has such good railways》，深入分析日本铁路系统卓越表现背后的制度与政策原因。文章在 Hacker News 上获得 2"

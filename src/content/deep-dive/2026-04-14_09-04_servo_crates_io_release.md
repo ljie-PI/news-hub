@@ -1,6 +1,7 @@
 ---
 title: "Servo 浏览器引擎正式登陆 crates.io"
 date: "2026-04-14"
+generated: "2026-04-14 09:00"
 source: "HN"
 slug: "2026-04-14_09-04_servo_crates_io_release"
 summary: "**来源**: servo.org 官方博客 | 380分 125评论 | 2026-04-14"

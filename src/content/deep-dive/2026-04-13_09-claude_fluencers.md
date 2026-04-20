@@ -1,6 +1,7 @@
 ---
 title: "Claude-fluencers 现象深度报告"
 date: "2026-04-13"
+generated: "2026-04-13 09:00"
 source: "Reddit"
 slug: "2026-04-13_09-claude_fluencers"
 summary: "**来源**: r/ClaudeAI | **日期**: 2026-04-13"

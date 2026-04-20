@@ -1,6 +1,7 @@
 ---
 title: "SaaS 的现实：当 AI 编程让\"自己造轮子\"变得诱人"
 date: "2026-04-20"
+generated: "2026-04-20 07:00"
 source: "Reddit"
 slug: "2026-04-20_07-reality-of-saas"
 summary: "这个略带讽刺的标题来自 Reddit r/artificial 社区的一篇热帖，精准捕捉了 2026 年初科技圈最核心的一场辩论——**AI 编程工具是否正在瓦解 SaaS 的商业模式"

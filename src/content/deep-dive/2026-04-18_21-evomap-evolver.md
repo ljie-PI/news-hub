@@ -1,6 +1,7 @@
 ---
 title: "EvoMap/evolver 深度解析：用\"基因工程\"让 AI Agent 自我进化"
 date: "2026-04-18"
+generated: "2026-04-18 21:00"
 source: "GitHub"
 slug: "2026-04-18_21-evomap-evolver"
 summary: "当前 AI Agent 开发的一大痛点是**提示词（prompt）的迭代管理混乱**——修修补补、缺乏版本追踪、成功经验无法复用。团队维护大规模 agent 系统时，promp"

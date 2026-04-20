@@ -1,6 +1,7 @@
 ---
 title: "Google Search 推出\"返回键劫持\"垃圾内容新政策"
 date: "2026-04-17"
+generated: "2026-04-17 09:00"
 source: "HN"
 slug: "2026-04-17_09-07_back-button-hijacking"
 summary: "---"

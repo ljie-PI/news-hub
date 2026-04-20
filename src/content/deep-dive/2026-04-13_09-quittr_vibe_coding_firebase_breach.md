@@ -1,6 +1,7 @@
 ---
 title: "Quittr：Vibe Coding 的成功与安全丑闻深度报告"
 date: "2026-04-13"
+generated: "2026-04-13 09:00"
 source: "Reddit"
 slug: "2026-04-13_09-quittr_vibe_coding_firebase_breach"
 summary: "**来源**: r/vibecoding | **日期**: 2026-04-13"

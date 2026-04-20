@@ -1,6 +1,7 @@
 ---
 title: "Anthropic 准备发布 Opus 4.7：最快本周发布"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "Reddit"
 slug: "2026-04-15_09-3_anthropic_opus47_incoming"
 summary: "**来源**: r/ClaudeAI | 2026-04-14"

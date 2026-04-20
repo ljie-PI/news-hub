@@ -1,6 +1,7 @@
 ---
 title: "七种编程\"元语言\"：一个被反复热议的编程语言分类框架"
 date: "2026-04-20"
+generated: "2026-04-20 07:00"
 source: "HN"
 slug: "2026-04-20_07-seven-programming-ur-languages"
 summary: "---"

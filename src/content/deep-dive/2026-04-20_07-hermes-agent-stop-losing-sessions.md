@@ -1,6 +1,7 @@
 ---
 title: "Hermes Agent 的\"失控\"难题：如何中止飞行中的 Agent？会话丢失又怎么办？"
 date: "2026-04-20"
+generated: "2026-04-20 07:00"
 source: "Reddit"
 slug: "2026-04-20_07-hermes-agent-stop-losing-sessions"
 summary: "Reddit 用户 GriffinDodd 近日在 r/LocalLLM 发帖，描述了自己从 OpenClaw（OC）迁移到 Nous Research 的开源 Agent 框架 **Hermes Agent** 后遇到的两个痛点问题。Hermes Agent"

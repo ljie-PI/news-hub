@@ -1,6 +1,7 @@
 ---
 title: "Master Agent or Swarm of Micro-Agents?"
 date: "2026-04-13"
+generated: "2026-04-13 00:00"
 source: "Reddit"
 slug: "2026-04-13_00-01_master_agent_or_swarm"
 summary: "在 r/AI_Agents 社区，一则题为 “Master Agent or Swarm of Micro-Agents?” 的帖子直击当下最热门的架构争论：未来的 AI 应用平台，应该是“一个配备 100 个工具的"

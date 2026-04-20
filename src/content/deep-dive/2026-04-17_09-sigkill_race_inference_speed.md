@@ -1,6 +1,7 @@
 ---
 title: "三个Cline Agent竞速互杀实验：DGX Spark比RTX 4090快4.9倍，揭示推理硬件的真实鸿沟"
 date: "2026-04-17"
+generated: "2026-04-17 09:00"
 source: "Reddit"
 slug: "2026-04-17_09-sigkill_race_inference_speed"
 summary: "---"

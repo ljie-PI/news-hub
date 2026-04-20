@@ -1,6 +1,7 @@
 ---
 title: "用微分几何检测 Prompt Injection？一位开发者的实战报告"
 date: "2026-04-20"
+generated: "2026-04-20 07:00"
 source: "Reddit"
 slug: "2026-04-20_07-llm-proxy-differential-geometry-injection"
 summary: "Reddit r/artificial 社区近日出现了一篇引人注目的帖子：一位开发者声称构建了一个 LLM 代理（proxy），利用**微分几何**（differential geometry）的方法来检测 "

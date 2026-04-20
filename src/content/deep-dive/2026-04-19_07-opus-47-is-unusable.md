@@ -1,6 +1,7 @@
 ---
 title: "Opus 4.7 发布即翻车：Claude Code 用户怒喷\"完全不可用\""
 date: "2026-04-19"
+generated: "2026-04-19 07:00"
 source: "Reddit"
 slug: "2026-04-19_07-opus-47-is-unusable"
 summary: "**来源**: [r/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1sp7zk1/i_swear_to_god_opus_47_is_unusable/) | **分类**: Vibe Coding | **日期**: 2026-04-19"

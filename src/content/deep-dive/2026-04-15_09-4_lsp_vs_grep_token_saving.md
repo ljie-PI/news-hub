@@ -1,6 +1,7 @@
 ---
 title: "用 LSP 替换 Grep：让 Claude Code 减少 80% Token 消耗的 Hooks 技巧"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "Reddit"
 slug: "2026-04-15_09-4_lsp_vs_grep_token_saving"
 summary: "**来源**: r/AI_Agents | 2026-04-14"

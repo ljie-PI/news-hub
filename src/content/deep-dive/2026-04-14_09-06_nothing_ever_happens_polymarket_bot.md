@@ -1,6 +1,7 @@
 ---
 title: "Nothing Ever Happens：永远买 No 的 Polymarket 预测市场机器人"
 date: "2026-04-14"
+generated: "2026-04-14 09:00"
 source: "HN"
 slug: "2026-04-14_09-06_nothing_ever_happens_polymarket_bot"
 summary: "**来源**: GitHub | 319分 142评论 | 2026-04-14"

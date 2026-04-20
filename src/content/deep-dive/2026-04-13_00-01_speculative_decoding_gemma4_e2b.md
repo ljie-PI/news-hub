@@ -1,6 +1,7 @@
 ---
 title: "Speculative Decoding works great for Gemma 4 31B with E2B draft"
 date: "2026-04-13"
+generated: "2026-04-13 00:00"
 source: "Reddit"
 slug: "2026-04-13_00-01_speculative_decoding_gemma4_e2b"
 summary: "2026 年 4 月 13 日，r/LocalLLaMA 上一则技术分享贴引发了本地大模型爱好者的热议。作者在其前一篇 Gemma 4 31B 基准测试的基础上，进一步验证了 **以 Gemma 4 "

@@ -1,6 +1,7 @@
 ---
 title: "OpenClaw 家庭助手：从 Telegram 机器人到全家智能中枢"
 date: "2026-04-19"
+generated: "2026-04-19 07:00"
 source: "Reddit"
 slug: "2026-04-19_07-openclaw-family-assistant"
 summary: "Reddit 用户在 r/openclaw 社区分享了一篇关于将 OpenClaw 打造为\"家庭助手\"的创意帖子，提出了通过 Telegram 机器人为全家提供日历管理、提醒事项、房产信息"

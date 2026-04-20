@@ -1,6 +1,7 @@
 ---
 title: "Eleventy 的终结——Font Awesome 收购背后，开源静态站点生成器的商业化困境"
 date: "2026-04-13"
+generated: "2026-04-13 00:00"
 source: "HN"
 slug: "2026-04-13_00-the_end_of_eleventy"
 summary: "这篇文章由 Brennan Kenneth Brown（一位使用 Eleventy/11ty 的作家兼 Web 开发者）撰写，题为 *The End of Eleventy*。Eleventy 是一个广受欢迎的开源静态站点生成器（S"

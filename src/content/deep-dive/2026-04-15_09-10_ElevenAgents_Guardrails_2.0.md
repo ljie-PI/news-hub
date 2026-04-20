@@ -1,6 +1,7 @@
 ---
 title: "10. ElevenAgents Guardrails 2.0 — Configurable safety control for enterprise agent deployment"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "PH"
 slug: "2026-04-15_09-10_ElevenAgents_Guardrails_2.0"
 summary: "**Product Hunt 排名：#10 | 票数：123 | 分类：Sales / Developer Tools / AI**"

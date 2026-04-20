@@ -1,6 +1,7 @@
 ---
 title: "Artemis II 安全溅落"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "HN"
 slug: "2026-04-15_09-6_artemis_ii_splashdown"
 summary: "**得分：1281 | 评论：450 | 作者：areoform**"

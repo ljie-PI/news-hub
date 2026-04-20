@@ -1,6 +1,7 @@
 ---
 title: "从单一二元运算符推导所有初等函数"
 date: "2026-04-17"
+generated: "2026-04-17 09:00"
 source: "HN"
 slug: "2026-04-17_09-10_elementary-functions-binary-op"
 summary: "---"

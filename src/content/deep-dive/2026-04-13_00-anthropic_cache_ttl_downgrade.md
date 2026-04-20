@@ -1,6 +1,7 @@
 ---
 title: "Anthropic 悄然下调 Claude Code 缓存 TTL——一场静默的成本转嫁"
 date: "2026-04-13"
+generated: "2026-04-13 00:00"
 source: "HN"
 slug: "2026-04-13_00-anthropic_cache_ttl_downgrade"
 summary: "2026 年 3 月 6 日，多位 Claude Code 用户发现自己的 prompt cache TTL（生存时间）从长期以来稳定的 1 小时被大幅下调到 5 分钟。最初用户以为这是 regression 或"

@@ -1,6 +1,7 @@
 ---
 title: "Is Gemma 4 really better than Haiku 4.5 and Gemini 3.1 Flash Lite?"
 date: "2026-04-13"
+generated: "2026-04-13 00:00"
 source: "Reddit"
 slug: "2026-04-13_00-02_is_gemma4_better_than_haiku_gemini"
 summary: "在 r/LocalLLM 社区，一则讨论帖提出了一个颇具颠覆性的问题：Gemma 4 31B 在 LiveBench 的 agentic coding 任务上击败了 Anthropic 的 Haiku 4.5 和 Google 自家的 Gemini 3.1"

@@ -1,6 +1,7 @@
 ---
 title: "Product Hunt 热门产品报告"
 date: "2026-04-20"
+generated: "2026-04-20 06:00"
 source: "PH"
 slug: "producthunt_2026-04-20_06"
 ---

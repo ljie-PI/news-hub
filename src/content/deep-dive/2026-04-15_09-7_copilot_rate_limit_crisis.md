@@ -1,6 +1,7 @@
 ---
 title: "GitHub Copilot 限速风波：周限 264 小时是噱头还是实质变化？"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "Reddit"
 slug: "2026-04-15_09-7_copilot_rate_limit_crisis"
 summary: "**来源**: r/GithubCopilot | 2026-04-14"

@@ -1,6 +1,7 @@
 ---
 title: "GitHub Stacked PRs — 官方原生堆叠 PR 支持正式上线"
 date: "2026-04-17"
+generated: "2026-04-17 09:00"
 source: "HN"
 slug: "2026-04-17_09-08_github-stacked-prs"
 summary: "---"

@@ -1,6 +1,7 @@
 ---
 title: "Vercel 2026 年 4 月安全事件深度解读"
 date: "2026-04-20"
+generated: "2026-04-20 07:00"
 source: "HN"
 slug: "2026-04-20_07-vercel-april-2026-security-incident"
 summary: "---"

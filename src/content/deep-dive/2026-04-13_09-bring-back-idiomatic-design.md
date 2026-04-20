@@ -1,6 +1,7 @@
 ---
 title: "找回惯用设计：当 UI 变成了艺术品，我们失去了什么？"
 date: "2026-04-13"
+generated: "2026-04-13 09:00"
 source: "HN"
 slug: "2026-04-13_09-bring-back-idiomatic-design"
 summary: "**日期**: 2026-04-13 | **来源**: Hacker News | **票数**: 377 | **评论**: 190"

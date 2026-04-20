@@ -1,6 +1,7 @@
 ---
 title: "Ray — Terminal-Based Personal CFO — Product Hunt 深度报告"
 date: "2026-04-13"
+generated: "2026-04-13 09:00"
 source: "PH"
 slug: "2026-04-13_09-ray_terminal_cfo"
 summary: "**日期**: 2026-04-13 | **票数**: 188 | **排名**: #3"

@@ -1,6 +1,7 @@
 ---
 title: "Vercel Flags 深度分析：当部署平台吃下 Feature Flag 这块蛋糕"
 date: "2026-04-19"
+generated: "2026-04-19 07:00"
 source: "PH"
 slug: "2026-04-19_07-vercel-flags"
 summary: "2026 年 4 月 16 日，Vercel 宣布其内置的 Feature Flag 服务 **Vercel Flags** 正式 GA（General Availability）。这一产品随即在 Product Hunt 上线，获得 115 票、4.96 分的高"

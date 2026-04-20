@@ -1,6 +1,7 @@
 ---
 title: "KV Cache 卸载到系统内存：本地大模型玩家的 VRAM 突围战"
 date: "2026-04-20"
+generated: "2026-04-20 07:00"
 source: "Reddit"
 slug: "2026-04-20_07-kv-cache-offload-system-ram"
 summary: "在本地部署大语言模型（LLM）时，VRAM（显存）是最稀缺的资源。模型权重占一部分，但随着上下文长度增长，**KV Cache（键值缓存）** 的显存占用会急剧"

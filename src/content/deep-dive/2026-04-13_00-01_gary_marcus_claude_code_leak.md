@@ -1,6 +1,7 @@
 ---
 title: "Gary Marcus on the Claude Code leak"
 date: "2026-04-13"
+generated: "2026-04-13 00:00"
 source: "Reddit"
 slug: "2026-04-13_00-01_gary_marcus_claude_code_leak"
 summary: "2026 年 4 月初，Anthropic Claude Code 发生了一起严重的源码泄露事件，约 50 万行代码被意外发布到 npm。纽约大学荣誉教授、长期批判纯深度学习路线的 Gary "

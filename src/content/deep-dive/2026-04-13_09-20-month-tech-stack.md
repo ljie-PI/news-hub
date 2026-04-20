@@ -1,6 +1,7 @@
 ---
 title: "我用 $20/月的技术栈跑多家 $10K MRR 公司"
 date: "2026-04-13"
+generated: "2026-04-13 09:00"
 source: "HN"
 slug: "2026-04-13_09-20-month-tech-stack"
 summary: "**日期**: 2026-04-13 | **来源**: Hacker News | **票数**: 774 | **评论**: 448"

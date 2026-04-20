@@ -1,6 +1,7 @@
 ---
 title: "Claude Code Routines：自动化 AI 编程任务的新范式"
 date: "2026-04-17"
+generated: "2026-04-17 09:00"
 source: "HN"
 slug: "2026-04-17_09-14_claude-code-routines"
 summary: "---"

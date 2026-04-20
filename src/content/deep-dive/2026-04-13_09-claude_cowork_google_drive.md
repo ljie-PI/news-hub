@@ -1,6 +1,7 @@
 ---
 title: "用 Claude Cowork 整理 Google Drive：4 小时实战报告深度分析"
 date: "2026-04-13"
+generated: "2026-04-13 09:00"
 source: "Reddit"
 slug: "2026-04-13_09-claude_cowork_google_drive"
 summary: "**来源**: r/ClaudeAI | **日期**: 2026-04-13"

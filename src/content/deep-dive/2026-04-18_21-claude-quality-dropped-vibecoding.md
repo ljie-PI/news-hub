@@ -1,6 +1,7 @@
 ---
 title: "Claude 质量大幅下降：Vibe Coding 社区的集体焦虑与替代方案之争"
 date: "2026-04-18"
+generated: "2026-04-18 21:00"
 source: "Reddit"
 slug: "2026-04-18_21-claude-quality-dropped-vibecoding"
 summary: "---"

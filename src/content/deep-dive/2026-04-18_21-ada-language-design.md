@@ -1,6 +1,7 @@
 ---
 title: "Ada：那门被行业忽视、却被每种现代语言悄悄\"变成\"的编程语言"
 date: "2026-04-18"
+generated: "2026-04-18 21:00"
 source: "HN"
 slug: "2026-04-18_21-ada-language-design"
 summary: "---"

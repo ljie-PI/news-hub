@@ -1,6 +1,7 @@
 ---
 title: "Smol Machines：亚秒级冷启动的便携式微型虚拟机，重新定义轻量隔离"
 date: "2026-04-18"
+generated: "2026-04-18 21:00"
 source: "HN"
 slug: "2026-04-18_21-smol-machines-subsecond-coldstart-vm"
 summary: "2026 年 4 月 17 日，YC 孵化项目 **Smol Machines** 在 Hacker News 以 Show HN 形式发布其开源工具 **smolvm**，迅速获得 369 points 和 119 条评论。smolvm 号称能在 **200 毫"

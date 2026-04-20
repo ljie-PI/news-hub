@@ -1,6 +1,7 @@
 ---
 title: "LLM政治立场基准测试：KIMI K2对台湾问题沉默，GPT-5.3有选择退出时100%拒绝回答"
 date: "2026-04-17"
+generated: "2026-04-17 09:00"
 source: "Reddit"
 slug: "2026-04-17_09-llm_political_benchmark"
 summary: "---"

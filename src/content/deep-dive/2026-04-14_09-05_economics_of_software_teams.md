@@ -1,6 +1,7 @@
 ---
 title: "软件团队的经济学：为什么大多数工程组织在\"盲飞\""
 date: "2026-04-14"
+generated: "2026-04-14 09:00"
 source: "HN"
 slug: "2026-04-14_09-05_economics_of_software_teams"
 summary: "**来源**: viktorcessan.com | 378分 242评论 | 2026-04-14"

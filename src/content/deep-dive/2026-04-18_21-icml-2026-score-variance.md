@@ -1,6 +1,7 @@
 ---
 title: "ICML 2026 审稿评分方差巨大：不同 Batch 之间的评分一致性引发社区热议"
 date: "2026-04-18"
+generated: "2026-04-18 21:00"
 source: "Reddit"
 slug: "2026-04-18_21-icml-2026-score-variance"
 summary: "---"

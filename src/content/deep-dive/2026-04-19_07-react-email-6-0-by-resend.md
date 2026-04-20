@@ -1,6 +1,7 @@
 ---
 title: "React Email 6.0 by Resend：可嵌入的开源邮件编辑器，重新定义邮件开发体验"
 date: "2026-04-19"
+generated: "2026-04-19 07:00"
 source: "PH"
 slug: "2026-04-19_07-react-email-6-0-by-resend"
 summary: "2026 年 4 月，Resend 团队在 Product Hunt 上发布了 **React Email 6.0**，这是其开源邮件开发框架的一次重大版本更新。React Email 自诞生以来便以\"用 React 和 TypeScr"

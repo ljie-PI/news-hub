@@ -1,6 +1,7 @@
 ---
 title: "有人买下30个WordPress插件并在所有插件中植入后门"
 date: "2026-04-14"
+generated: "2026-04-14 09:00"
 source: "HN"
 slug: "2026-04-14_09-02_wordpress_plugins_backdoor"
 summary: "**来源**: anchor.host 安全博客 | 481分 132评论 | 2026-04-14"

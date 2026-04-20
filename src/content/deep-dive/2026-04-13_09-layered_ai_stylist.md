@@ -1,6 +1,7 @@
 ---
 title: "Layered — AI Personal Stylist — Product Hunt 深度报告"
 date: "2026-04-13"
+generated: "2026-04-13 09:00"
 source: "PH"
 slug: "2026-04-13_09-layered_ai_stylist"
 summary: "**日期**: 2026-04-13 | **票数**: 127 | **排名**: #7"

@@ -1,6 +1,7 @@
 ---
 title: "\"She doesn't use em dashes either!\" — ChatGPT 的破折号之争"
 date: "2026-04-20"
+generated: "2026-04-20 07:00"
 source: "Reddit"
 slug: "2026-04-20_07-chatgpt-no-em-dashes"
 summary: "---"

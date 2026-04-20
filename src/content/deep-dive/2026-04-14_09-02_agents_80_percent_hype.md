@@ -1,6 +1,7 @@
 ---
 title: "Anyone else feel like AI agents are 80% hype and 20% results?"
 date: "2026-04-14"
+generated: "2026-04-14 09:00"
 source: "Reddit"
 slug: "2026-04-14_09-02_agents_80_percent_hype"
 summary: "**来源**: r/AI_Agents  "

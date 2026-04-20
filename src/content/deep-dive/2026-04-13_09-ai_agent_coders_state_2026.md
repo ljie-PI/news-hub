@@ -1,6 +1,7 @@
 ---
 title: "AI Agent Coders 现状 2026 年 4 月：Agent vs Skills vs Workflows 深度报告"
 date: "2026-04-13"
+generated: "2026-04-13 09:00"
 source: "Reddit"
 slug: "2026-04-13_09-ai_agent_coders_state_2026"
 summary: "**来源**: r/AI_Agents | **日期**: 2026-04-13"

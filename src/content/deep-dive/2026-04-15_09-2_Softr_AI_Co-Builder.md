@@ -1,6 +1,7 @@
 ---
 title: "2. Softr AI Co-Builder — Build business apps with AI that actually work"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "PH"
 slug: "2026-04-15_09-2_Softr_AI_Co-Builder"
 summary: "**Product Hunt 排名：#2 | 票数：313 | 评分：4.65/5 (66条评测) | 分类：AI / No-Code / Vibe Coding**"

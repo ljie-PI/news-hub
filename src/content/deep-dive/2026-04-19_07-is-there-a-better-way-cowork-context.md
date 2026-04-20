@@ -1,6 +1,7 @@
 ---
 title: "Cowork 上下文压缩导致 AI 质量崩塌：用户怒吼「有没有更好的办法」"
 date: "2026-04-19"
+generated: "2026-04-19 07:00"
 source: "Reddit"
 slug: "2026-04-19_07-is-there-a-better-way-cowork-context"
 summary: "---"

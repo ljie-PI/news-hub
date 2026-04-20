@@ -1,6 +1,7 @@
 ---
 title: "andrej-karpathy-skills 深度报告"
 date: "2026-04-17"
+generated: "2026-04-17 09:00"
 source: "GitHub"
 slug: "2026-04-17_09-01_andrej-karpathy-skills"
 summary: "---"

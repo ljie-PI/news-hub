@@ -1,6 +1,7 @@
 ---
 title: "微软并未移除 Copilot，只是改了个名字"
 date: "2026-04-14"
+generated: "2026-04-14 09:00"
 source: "HN"
 slug: "2026-04-14_09-07_microsoft_copilot_rename"
 summary: "**来源**: Neowin | 296分 204评论 | 2026-04-14"

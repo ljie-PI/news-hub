@@ -1,6 +1,7 @@
 ---
 title: "LibreYOLO：摆脱 Ultralytics AGPL 枷锁的 MIT 开源目标检测替代方案"
 date: "2026-04-18"
+generated: "2026-04-18 21:00"
 source: "Reddit"
 slug: "2026-04-18_21-libreyolo-ultralytics-alternative"
 summary: "长期以来，Ultralytics 的 YOLO 系列（YOLOv5/v8/v11 等）凭借极其易用的 Python API 和完善的生态，几乎成为目标检测领域的事实标准。然而，Ultralytics 采用 **AGP"

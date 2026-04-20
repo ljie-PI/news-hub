@@ -1,6 +1,7 @@
 ---
 title: "从 OpenAI 到 Nvidia：科技巨头豪掷千亿押注 AI 基础设施，但中国开源模型正在改写游戏规则"
 date: "2026-04-19"
+generated: "2026-04-19 07:00"
 source: "Reddit"
 slug: "2026-04-19_07-openai-nvidia-billions-ai-infrastructure"
 summary: "**来源**: [Reuters](https://www.reuters.com/business/autos-transportation/companies-pouring-billions-advance-ai-infrastructure-2026-04-09/) | [Reddit 讨论](https://www.reddit.com/r/artificial/comm"

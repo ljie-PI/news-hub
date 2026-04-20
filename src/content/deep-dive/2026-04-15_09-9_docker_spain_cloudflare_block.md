@@ -1,6 +1,7 @@
 ---
 title: "Docker pull 在西班牙因足球赛 Cloudflare 封锁而失败"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "HN"
 slug: "2026-04-15_09-9_docker_spain_cloudflare_block"
 summary: "**得分：1132 | 评论：417 | 作者：littlecranky67**"

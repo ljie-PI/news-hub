@@ -1,6 +1,7 @@
 ---
 title: "Gemini免限制 vs Claude持续断流：vibecoder大迁徙的理性分析"
 date: "2026-04-17"
+generated: "2026-04-17 09:00"
 source: "Reddit"
 slug: "2026-04-17_09-gemini_vs_claude_rate_limits"
 summary: "---"

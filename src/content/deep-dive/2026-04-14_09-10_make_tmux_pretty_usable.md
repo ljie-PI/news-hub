@@ -1,6 +1,7 @@
 ---
 title: "让 tmux 好看又好用：配置完全指南（2024）"
 date: "2026-04-14"
+generated: "2026-04-14 09:00"
 source: "HN"
 slug: "2026-04-14_09-10_make_tmux_pretty_usable"
 summary: "**来源**: hamvocke.com | 271分 184评论 | 2026-04-14"

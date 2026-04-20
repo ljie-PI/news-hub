@@ -1,6 +1,7 @@
 ---
 title: "DaVinci Resolve – Photo"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "HN"
 slug: "2026-04-15_09-10_davinci_resolve_photo"
 summary: "**得分：1049 | 评论：263 | 作者：thebiblelover7**"

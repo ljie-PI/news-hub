@@ -1,6 +1,7 @@
 ---
 title: "Android 现在阻止你在照片中分享位置信息"
 date: "2026-04-14"
+generated: "2026-04-14 09:00"
 source: "HN"
 slug: "2026-04-14_09-08_android_location_photos"
 summary: "**来源**: shkspr.mobi | 295分 263评论 | 2026-04-14"

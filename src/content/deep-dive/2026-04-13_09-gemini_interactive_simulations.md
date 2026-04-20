@@ -1,6 +1,7 @@
 ---
 title: "Gemini Interactive Simulations — Product Hunt 深度报告"
 date: "2026-04-13"
+generated: "2026-04-13 09:00"
 source: "PH"
 slug: "2026-04-13_09-gemini_interactive_simulations"
 summary: "**日期**: 2026-04-13 | **票数**: 285 | **排名**: #1"

@@ -1,6 +1,7 @@
 ---
 title: "r/ClaudeCode 社区\"内卷式抱怨\"引发元讨论：这个Sub太糟糕了"
 date: "2026-04-19"
+generated: "2026-04-19 07:00"
 source: "Reddit"
 slug: "2026-04-19_07-claudecode-sub-is-awful"
 summary: "2026年4月中旬，Reddit 用户在 r/ClaudeCode 子版块发帖，标题直言\"This sub is awful\"（这个Sub太糟糕了），对社区当前的风气提出尖锐批评。帖子原文写道："

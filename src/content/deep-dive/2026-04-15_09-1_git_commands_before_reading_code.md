@@ -1,6 +1,7 @@
 ---
 title: "Git commands I run before reading any code"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "HN"
 slug: "2026-04-15_09-1_git_commands_before_reading_code"
 summary: "**得分：2329 | 评论：507 | 作者：grepsedawk**"

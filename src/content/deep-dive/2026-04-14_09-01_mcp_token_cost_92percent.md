@@ -1,6 +1,7 @@
 ---
 title: "We cut MCP token costs by 92%"
 date: "2026-04-14"
+generated: "2026-04-14 09:00"
 source: "Reddit"
 slug: "2026-04-14_09-01_mcp_token_cost_92percent"
 summary: "**来源**: r/AI_Agents  "

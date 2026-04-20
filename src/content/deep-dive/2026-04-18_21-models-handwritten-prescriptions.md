@@ -1,6 +1,7 @@
 ---
 title: "本地大模型能否攻克手写处方识别？Reddit 社区深度讨论"
 date: "2026-04-18"
+generated: "2026-04-18 21:00"
 source: "Reddit"
 slug: "2026-04-18_21-models-handwritten-prescriptions"
 summary: "Reddit 用户 u/Impressive-Rise7510 在 r/LocalLLM 发帖求助：如何从手写处方中提取结构化数据？发帖者表示已尝试传统 OCR 但准确率低、结构化输出不稳定，希望"

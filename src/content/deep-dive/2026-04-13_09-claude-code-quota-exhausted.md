@@ -1,6 +1,7 @@
 ---
 title: "Claude Code Pro Max 配额 1.5 小时耗尽：用户大规模投诉"
 date: "2026-04-13"
+generated: "2026-04-13 09:00"
 source: "HN"
 slug: "2026-04-13_09-claude-code-quota-exhausted"
 summary: "**日期**: 2026-04-13 | **来源**: Hacker News | **票数**: 501 | **评论**: 466"

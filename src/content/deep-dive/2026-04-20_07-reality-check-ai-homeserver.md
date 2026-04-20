@@ -1,6 +1,7 @@
 ---
 title: "AI 家庭服务器的\"现实检验\"：你真的需要一台本地 LLM 主机吗？"
 date: "2026-04-20"
+generated: "2026-04-20 07:00"
 source: "Reddit"
 slug: "2026-04-20_07-reality-check-ai-homeserver"
 summary: "在 r/LocalLLM 社区，一位用户发起了题为\"Reality Check needed: AI Homeserver\"的讨论帖，请求社区对自建 AI 家庭服务器（Homeserver）的可行性进行\"现实检验\"。这类"

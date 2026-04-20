@@ -1,6 +1,7 @@
 ---
 title: "数万张珍稀演唱会录音登陆 Internet Archive"
 date: "2026-04-17"
+generated: "2026-04-17 09:00"
 source: "HN"
 slug: "2026-04-17_09-15_concert-recordings-archive"
 summary: "---"

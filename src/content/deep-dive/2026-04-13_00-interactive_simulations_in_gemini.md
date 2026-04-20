@@ -1,6 +1,7 @@
 ---
 title: "Interactive Simulations in Gemini 深度调研报告"
 date: "2026-04-13"
+generated: "2026-04-13 00:00"
 source: "PH"
 slug: "2026-04-13_00-interactive_simulations_in_gemini"
 summary: "随着生成式 AI 竞争从纯文本对话走向多模态交互，Google 在 2026 年 4 月对 Gemini 进行了一次关键升级：推出原生交互式 3D 模拟与可视化功能。这一功能的"

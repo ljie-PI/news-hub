@@ -1,6 +1,7 @@
 ---
 title: "Project N.O.M.A.D. — 离线生存计算机（含本地 AI）"
 date: "2026-04-14"
+generated: "2026-04-14 09:00"
 source: "GitHub"
 slug: "2026-04-14_09-project-nomad"
 summary: "Project N.O.M.A.D.（**Node for Offline Media, Archives, and Data**）是一个**离线优先的知识与教育服务器**，设计目标是\"断网依然可用的生存级信息系统\"。"

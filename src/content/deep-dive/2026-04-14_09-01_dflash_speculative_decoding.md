@@ -1,6 +1,7 @@
 ---
 title: "DFlash speculative decoding on Apple Silicon: 4.1x on Qwen3.5-9B"
 date: "2026-04-14"
+generated: "2026-04-14 09:00"
 source: "Reddit"
 slug: "2026-04-14_09-01_dflash_speculative_decoding"
 summary: "**来源**: r/LocalLLaMA  "

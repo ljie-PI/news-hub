@@ -1,6 +1,7 @@
 ---
 title: "Eleventy 的终结：Font Awesome 将 11ty 改造为 \"Build Awesome\""
 date: "2026-04-13"
+generated: "2026-04-13 09:00"
 source: "HN"
 slug: "2026-04-13_09-end-of-eleventy"
 summary: "**日期**: 2026-04-13 | **来源**: Hacker News | **票数**: 195 | **评论**: 170"

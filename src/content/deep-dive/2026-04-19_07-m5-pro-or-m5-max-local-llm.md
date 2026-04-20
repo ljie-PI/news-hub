@@ -1,6 +1,7 @@
 ---
 title: "M5 Pro 还是 M5 Max？本地大模型玩家的终极选购之争"
 date: "2026-04-19"
+generated: "2026-04-19 07:00"
 source: "Reddit"
 slug: "2026-04-19_07-m5-pro-or-m5-max-local-llm"
 summary: "---"

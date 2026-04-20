@@ -1,6 +1,7 @@
 ---
 title: "Claude 被质疑无法胜任复杂工程任务：AMD AI 总监甩出 68 万条数据"
 date: "2026-04-13"
+generated: "2026-04-13 00:00"
 source: "Reddit"
 slug: "2026-04-13_00-claude_cannot_be_trusted_complex_engineering"
 summary: "2026 年 4 月初，AMD AI Group 总监 Stella Laurenzo 在 GitHub 上发布了一份长达数月的 Claude Code 使用 telemetry 分析，引发 AI 编程工具圈的地震。她的团队追踪了 6,"

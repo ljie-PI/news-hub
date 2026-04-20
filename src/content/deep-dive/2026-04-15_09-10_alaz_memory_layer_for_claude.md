@@ -1,6 +1,7 @@
 ---
 title: "为 Claude 每次会话重新解释代码库？有人用 Rust 写了个记忆层"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "Reddit"
 slug: "2026-04-15_09-10_alaz_memory_layer_for_claude"
 summary: "**来源**: r/LLM | 2026-04-14"

@@ -1,6 +1,7 @@
 ---
 title: "I ported Mac OS X to the Nintendo Wii"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "HN"
 slug: "2026-04-15_09-2_porting_mac_os_x_nintendo_wii"
 summary: "**得分：1921 | 评论：328 | 作者：blkhp19**"

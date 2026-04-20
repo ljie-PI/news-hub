@@ -1,6 +1,7 @@
 ---
 title: "Claude Design：Anthropic 正式进军设计领域，Figma 股价应声下跌 7%"
 date: "2026-04-18"
+generated: "2026-04-18 21:00"
 source: "HN"
 slug: "2026-04-18_21-claude-design"
 summary: "2026 年 4 月 17 日，Anthropic 旗下实验部门 Anthropic Labs 发布了全新产品 **Claude Design**，一款基于最新视觉模型 Claude Opus 4.7 的 AI 设计工具。该产品以研究预"

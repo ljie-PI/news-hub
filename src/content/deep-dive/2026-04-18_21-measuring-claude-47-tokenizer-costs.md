@@ -1,6 +1,7 @@
 ---
 title: "Claude Opus 4.7 新分词器的隐性成本：官方说 1.35x，实测高达 1.47x"
 date: "2026-04-18"
+generated: "2026-04-18 21:00"
 source: "HN"
 slug: "2026-04-18_21-measuring-claude-47-tokenizer-costs"
 summary: "Anthropic 于近日发布了 Claude Opus 4.7，在性能提升的同时引入了全新的分词器（tokenizer）。官方迁移指南明确标注，新分词器\"大约使用 1.0 到 1.35 倍的 token"

@@ -1,6 +1,7 @@
 ---
 title: "Apple 地图悄然删除黎巴嫩大多数城镇村庄"
 date: "2026-04-13"
+generated: "2026-04-13 09:00"
 source: "HN"
 slug: "2026-04-13_09-apple-maps-lebanon-removed"
 summary: "**日期**: 2026-04-13 | **来源**: Hacker News | **票数**: 266 | **评论**: 144"

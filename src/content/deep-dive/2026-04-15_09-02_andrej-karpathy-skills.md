@@ -1,6 +1,7 @@
 ---
 title: "02 · forrestchang/andrej-karpathy-skills"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "GitHub"
 slug: "2026-04-15_09-02_andrej-karpathy-skills"
 summary: "这是一个极简但影响深远的项目：**一个单文件 CLAUDE.md**，衍生自 Andrej Karpathy 对 LLM 编程助手行为缺陷的公开批评。"

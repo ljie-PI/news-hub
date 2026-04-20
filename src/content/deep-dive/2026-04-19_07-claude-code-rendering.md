@@ -1,6 +1,7 @@
 ---
 title: "Claude Code NO_FLICKER 模式深度解析：终端 AI 编程工具的渲染革命"
 date: "2026-04-19"
+generated: "2026-04-19 07:00"
 source: "PH"
 slug: "2026-04-19_07-claude-code-rendering"
 summary: "2026 年 4 月初，Anthropic 工程师 Boris Cherny 在社交媒体上宣布了 Claude Code 的一项实验性功能——**NO_FLICKER 渲染模式**。该功能随即登陆 Product Hunt，以「Mous"

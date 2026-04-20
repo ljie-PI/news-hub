@@ -1,6 +1,7 @@
 ---
 title: "小模型调度大模型：GitHub Copilot 中 5.4-mini 编排 5.4 子代理的实践与争议"
 date: "2026-04-20"
+generated: "2026-04-20 07:00"
 source: "Reddit"
 slug: "2026-04-20_07-54mini-calling-54-subagent"
 summary: "Reddit 用户在 r/GithubCopilot 分享了一种使用模式：让 GPT-5.4-mini 作为编排器（orchestrator），同时调度多个 GPT-5.4 作为子代理（sub-agent）来并行处理编码任务"

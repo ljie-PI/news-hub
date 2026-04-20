@@ -1,6 +1,7 @@
 ---
 title: "14. Google's Nest Doorbell — Smart, battery-powered video doorbell to detect what matters"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "PH"
 slug: "2026-04-15_09-14_Google_Nest_Doorbell"
 summary: "**Product Hunt 排名：#14 | 票数：105 | 评分：4.86/5 (69条评测) | 分类：Home / Privacy / AI**"

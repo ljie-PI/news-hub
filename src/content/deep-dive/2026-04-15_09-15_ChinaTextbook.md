@@ -1,6 +1,7 @@
 ---
 title: "15 · TapXWorld/ChinaTextbook"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "GitHub"
 slug: "2026-04-15_09-15_ChinaTextbook"
 summary: "**ChinaTextbook** 是一个将中国全套小初高及大学 PDF 教材整合并开源分发的 GitHub 仓库，核心立场是**教育资源的民主化**。"

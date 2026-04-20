@@ -1,6 +1,7 @@
 ---
 title: "长对话中的\"迷失\"：ChatGPT 用户的共同痛点与\"上下文腐烂\"现象深度解读"
 date: "2026-04-18"
+generated: "2026-04-18 21:00"
 source: "Reddit"
 slug: "2026-04-18_21-lost-in-long-chatgpt-chats"
 summary: "Reddit 用户在 r/ChatGPT 社区发帖提问：\"Does anyone else get lost in long ChatGPT chats?\"（你们在长对话中也会迷失吗？），引发了大量共鸣。这个帖子触及了当前大"

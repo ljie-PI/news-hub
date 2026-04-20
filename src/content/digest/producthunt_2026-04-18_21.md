@@ -1,6 +1,7 @@
 ---
 title: "Product Hunt 日报 2026-04-18"
 date: "2026-04-18"
+generated: "2026-04-18 21:00"
 source: "PH"
 slug: "producthunt_2026-04-18_21"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "《Category Theory Illustrated – Orders》：用彩色图解让范畴论\"序\"的概念不再抽象"
 date: "2026-04-19"
+generated: "2026-04-19 07:00"
 source: "HN"
 slug: "2026-04-19_07-category-theory-illustrated-orders"
 summary: "2026年4月18日，一篇名为\"Category Theory Illustrated – Orders\"的在线教程在 Hacker News 上获得了超过 219 点赞和 58 条评论，引发了技术社区对范畴论（Category Theor"

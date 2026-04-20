@@ -1,6 +1,7 @@
 ---
 title: "Google broke its promise to me – now ICE has my data"
 date: "2026-04-17"
+generated: "2026-04-17 09:00"
 source: "HN"
 slug: "2026-04-17_09-01_google-ice-data"
 summary: "---"

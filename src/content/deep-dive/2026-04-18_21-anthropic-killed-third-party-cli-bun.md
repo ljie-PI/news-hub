@@ -1,6 +1,7 @@
 ---
 title: "Anthropic 悄然切换 Bun 编译二进制，第三方 CLI 工具链集体\"阵亡\""
 date: "2026-04-18"
+generated: "2026-04-18 21:00"
 source: "Reddit"
 slug: "2026-04-18_21-anthropic-killed-third-party-cli-bun"
 summary: "---"

@@ -1,6 +1,7 @@
 ---
 title: "microsoft/playwright-cli — 为 AI 编程 Agent 设计的浏览器自动化 CLI"
 date: "2026-04-14"
+generated: "2026-04-14 09:00"
 source: "GitHub"
 slug: "2026-04-14_09-playwright-cli"
 summary: "`playwright-cli` 是微软官方为 **AI 编程 Agent** 量身打造的浏览器自动化 CLI 工具。它解决的核心问题是："

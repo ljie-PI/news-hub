@@ -1,6 +1,7 @@
 ---
 title: "Claude Design 引发设计工具变革大讨论：Figma 的\"Sketch 时刻\"来了吗？"
 date: "2026-04-19"
+generated: "2026-04-19 07:00"
 source: "HN"
 slug: "2026-04-19_07-thoughts-feelings-claude-design"
 summary: "2026年4月18日，设计师 Sam Henri Gold 发表了一篇题为 *\"Thoughts and Feelings around Claude Design\"* 的博文，在 Hacker News 上迅速获得 130+ 点赞和 77 条评论。文章围绕 "

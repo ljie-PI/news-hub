@@ -1,6 +1,7 @@
 ---
 title: "SPEAKE(a)R：你的耳机正在偷听你——把扬声器变成窃听麦克风"
 date: "2026-04-20"
+generated: "2026-04-20 07:00"
 source: "HN"
 slug: "2026-04-20_07-speaker-turn-speakers-to-microphones"
 summary: "---"

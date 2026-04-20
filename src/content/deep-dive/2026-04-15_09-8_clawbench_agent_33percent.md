@@ -1,6 +1,7 @@
 ---
 title: "ClawBench：AI Agent 完成日常在线任务仅达 33.3% 成功率"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "Reddit"
 slug: "2026-04-15_09-8_clawbench_agent_33percent"
 summary: "**来源**: r/MachineLearning | 2026-04-14"

@@ -1,6 +1,7 @@
 ---
 title: "本地 LLM 的碳足迹：追踪与抵消的实践探索"
 date: "2026-04-20"
+generated: "2026-04-20 07:00"
 source: "Reddit"
 slug: "2026-04-20_07-tracking-carbon-footprint-local-llms"
 summary: "Reddit 用户在 r/LocalLLM 社区发帖讨论了一个越来越被关注的话题：**如何追踪和抵消本地运行大语言模型所产生的碳排放**。随着越来越多的开发者和爱好"

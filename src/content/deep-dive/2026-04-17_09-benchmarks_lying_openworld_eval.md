@@ -1,6 +1,7 @@
 ---
 title: "Benchmark正在欺骗我们：CRUX项目用App Store实测揭示LLM的真实局限"
 date: "2026-04-17"
+generated: "2026-04-17 09:00"
 source: "Reddit"
 slug: "2026-04-17_09-benchmarks_lying_openworld_eval"
 summary: "---"

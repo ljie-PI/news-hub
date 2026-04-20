@@ -1,6 +1,7 @@
 ---
 title: "在 iPad 上本地运行的微型世界模型游戏：端侧 AI 游戏的新可能"
 date: "2026-04-19"
+generated: "2026-04-19 07:00"
 source: "Reddit"
 slug: "2026-04-19_07-tiny-world-model-game-ipad"
 summary: "Reddit 用户在 r/LocalLLaMA 社区发帖分享了一个令人兴奋的个人项目——在 iPad 上完全本地运行的微型世界模型（World Model）驱动的驾驶游戏。该项目的核心"

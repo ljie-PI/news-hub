@@ -1,6 +1,7 @@
 ---
 title: "Claude Design by Anthropic Labs 深度分析"
 date: "2026-04-19"
+generated: "2026-04-19 07:00"
 source: "PH"
 slug: "2026-04-19_07-claude-design-by-anthropic-labs"
 summary: "2026 年 4 月 17 日，Anthropic 旗下实验产品部门 Anthropic Labs 正式发布 **Claude Design**——一款通过对话式交互生成设计原型、幻灯片、单页文档和营销素材的"

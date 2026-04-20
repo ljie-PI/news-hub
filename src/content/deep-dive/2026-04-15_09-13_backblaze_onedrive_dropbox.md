@@ -1,6 +1,7 @@
 ---
 title: "Backblaze 停止备份 OneDrive 和 Dropbox 文件夹"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "HN"
 slug: "2026-04-15_09-13_backblaze_onedrive_dropbox"
 summary: "**得分：947 | 评论：579 | 作者：rrreese**"

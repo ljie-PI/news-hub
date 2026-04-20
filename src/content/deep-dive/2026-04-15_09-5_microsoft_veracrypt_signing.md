@@ -1,6 +1,7 @@
 ---
 title: "Microsoft 终止了 VeraCrypt 用于签名 Windows 驱动的账户"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "HN"
 slug: "2026-04-15_09-5_microsoft_veracrypt_signing"
 summary: "**得分：1293 | 评论：500 | 作者：super256**"

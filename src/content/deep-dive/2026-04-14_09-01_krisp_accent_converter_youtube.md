@@ -1,6 +1,7 @@
 ---
 title: "Krisp Accent Converter for YouTube（291票）"
 date: "2026-04-14"
+generated: "2026-04-14 09:00"
 source: "PH"
 slug: "2026-04-14_09-01_krisp_accent_converter_youtube"
 summary: "**Product Hunt 排名：#1 | 2026-04-14**"

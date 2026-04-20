@@ -1,6 +1,7 @@
 ---
 title: "\"我的名字叫Claude Opus 4.6，我住在9126端口，我被做了脑叶切除术\"——34天使用数据揭示的质量退化"
 date: "2026-04-17"
+generated: "2026-04-17 09:00"
 source: "Reddit"
 slug: "2026-04-17_09-claude46_degradation_data"
 summary: "---"

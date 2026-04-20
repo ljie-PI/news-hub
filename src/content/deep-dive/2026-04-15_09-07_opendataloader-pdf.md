@@ -1,6 +1,7 @@
 ---
 title: "07 · opendataloader-project/opendataloader-pdf"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "GitHub"
 slug: "2026-04-15_09-07_opendataloader-pdf"
 summary: "**opendataloader-pdf** 是面向 AI 数据提取的 PDF 解析库，同时承担 PDF 无障碍合规（PDF/UA）的开源实现。"

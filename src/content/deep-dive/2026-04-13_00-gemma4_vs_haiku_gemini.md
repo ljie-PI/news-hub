@@ -1,6 +1,7 @@
 ---
 title: "Gemma 4 31B 真比 Haiku 4.5 和 Gemini 3.1 Flash Lite 强吗？"
 date: "2026-04-13"
+generated: "2026-04-13 00:00"
 source: "Reddit"
 slug: "2026-04-13_00-gemma4_vs_haiku_gemini"
 summary: "2026 年 4 月，r/LocalLLM 上的一则帖子抛出了本地部署者的核心抉择：Gemma 4 31B 在 LiveBench 等 agentic coding 基准上击败了 Claude Haiku 4.5 与 Gemini 3.1 Flash Lite，是"

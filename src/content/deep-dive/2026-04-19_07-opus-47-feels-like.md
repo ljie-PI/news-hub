@@ -1,6 +1,7 @@
 ---
 title: "\"This is what Opus 4.7 Feels like!\" —— 一个梗图背后的集体焦虑"
 date: "2026-04-19"
+generated: "2026-04-19 07:00"
 source: "Reddit"
 slug: "2026-04-19_07-opus-47-feels-like"
 summary: "**来源**: [r/vibecoding](https://www.reddit.com/r/vibecoding/comments/1sp8egj/this_is_what_opus_47_feels_like/)  "

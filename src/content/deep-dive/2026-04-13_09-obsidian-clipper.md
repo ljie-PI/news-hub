@@ -1,6 +1,7 @@
 ---
 title: "obsidian-clipper — Obsidian 官方网页剪藏扩展"
 date: "2026-04-13"
+generated: "2026-04-13 09:00"
 source: "GitHub"
 slug: "2026-04-13_09-obsidian-clipper"
 summary: "**仓库**: https://github.com/obsidianmd/obsidian-clipper  "

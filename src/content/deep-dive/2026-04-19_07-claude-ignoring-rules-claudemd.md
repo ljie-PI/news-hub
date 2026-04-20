@@ -1,6 +1,7 @@
 ---
 title: "Claude 无视 claude.md 规则：AI 编程助手的\"选择性失忆\"困境"
 date: "2026-04-19"
+generated: "2026-04-19 07:00"
 source: "Reddit"
 slug: "2026-04-19_07-claude-ignoring-rules-claudemd"
 summary: "Reddit 社区 r/ClaudeAI 上一则标题为\"Every time I see it ignore a rule in claude.md\"的 meme 帖子引发了开发者们的强烈共鸣。这篇帖子精准戳中了 Claude Code 用户群体的"

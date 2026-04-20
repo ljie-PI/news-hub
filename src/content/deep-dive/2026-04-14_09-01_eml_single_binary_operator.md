@@ -1,6 +1,7 @@
 ---
 title: "用单一二元运算符生成所有初等函数"
 date: "2026-04-14"
+generated: "2026-04-14 09:00"
 source: "HN"
 slug: "2026-04-14_09-01_eml_single_binary_operator"
 summary: "**来源**: arXiv 论文 | 773分 242评论 | 2026-04-14"

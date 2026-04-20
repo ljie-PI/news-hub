@@ -1,6 +1,7 @@
 ---
 title: "你的游戏PC闲置90%的时间，能否为远在城市另一端的笔记本提供LLM推理服务？"
 date: "2026-04-18"
+generated: "2026-04-18 21:00"
 source: "Reddit"
 slug: "2026-04-18_21-gaming-pc-serve-llm-inference-remote"
 summary: "---"

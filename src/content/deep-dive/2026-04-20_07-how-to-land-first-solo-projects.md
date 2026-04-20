@@ -1,6 +1,7 @@
 ---
 title: "独立工程师/顾问如何拿到第一个项目？——HN 社区实战经验深度解读"
 date: "2026-04-20"
+generated: "2026-04-20 07:00"
 source: "HN"
 slug: "2026-04-20_07-how-to-land-first-solo-projects"
 summary: "---"

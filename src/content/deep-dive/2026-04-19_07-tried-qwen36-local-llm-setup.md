@@ -1,6 +1,7 @@
 ---
 title: "Qwen3.6 首次本地部署体验震撼用户——Reddit 社区深度解析"
 date: "2026-04-19"
+generated: "2026-04-19 07:00"
 source: "Reddit"
 slug: "2026-04-19_07-tried-qwen36-local-llm-setup"
 summary: "---"

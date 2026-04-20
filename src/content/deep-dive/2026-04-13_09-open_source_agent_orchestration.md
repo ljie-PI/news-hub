@@ -1,6 +1,7 @@
 ---
 title: "开源 AI Agent 编排工具 3 个月构建历程深度报告"
 date: "2026-04-13"
+generated: "2026-04-13 09:00"
 source: "Reddit"
 slug: "2026-04-13_09-open_source_agent_orchestration"
 summary: "**来源**: r/AI_Agents | **日期**: 2026-04-13"

@@ -1,6 +1,7 @@
 ---
 title: "GitHub Stacked PRs"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "HN"
 slug: "2026-04-15_09-14_github_stacked_prs"
 summary: "**得分：867 | 评论：496 | 作者：ezekg**"

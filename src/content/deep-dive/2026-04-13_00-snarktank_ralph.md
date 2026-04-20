@@ -1,6 +1,7 @@
 ---
 title: "snarktank/ralph 深度研究报告"
 date: "2026-04-13"
+generated: "2026-04-13 00:00"
 source: "GitHub"
 slug: "2026-04-13_00-snarktank_ralph"
 summary: "**Ralph** 是由 **snarktank** 开发的一套**自主 AI 编码代理循环（Autonomous AI Agent Loop）**，核心解决的是\"AI 辅助编程中的任务稀释与上下文漂移\"问题。当前主"

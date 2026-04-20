@@ -1,6 +1,7 @@
 ---
 title: "Someone bought 30 WordPress plugins and planted a backdoor in all of them"
 date: "2026-04-17"
+generated: "2026-04-17 09:00"
 source: "HN"
 slug: "2026-04-17_09-03_wordpress-backdoor"
 summary: "---"

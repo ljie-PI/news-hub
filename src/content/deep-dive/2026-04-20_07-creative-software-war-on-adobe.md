@@ -1,6 +1,7 @@
 ---
 title: "创意软件行业向 Adobe 宣战：免费浪潮下的帝国黄昏？"
 date: "2026-04-20"
+generated: "2026-04-20 07:00"
 source: "HN"
 slug: "2026-04-20_07-creative-software-war-on-adobe"
 summary: "---"

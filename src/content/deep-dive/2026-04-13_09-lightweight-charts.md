@@ -1,6 +1,7 @@
 ---
 title: "lightweight-charts — TradingView 开源高性能金融图表库"
 date: "2026-04-13"
+generated: "2026-04-13 09:00"
 source: "GitHub"
 slug: "2026-04-13_09-lightweight-charts"
 summary: "**仓库**: https://github.com/tradingview/lightweight-charts  "

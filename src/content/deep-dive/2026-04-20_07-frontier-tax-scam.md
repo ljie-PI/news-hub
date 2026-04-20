@@ -1,6 +1,7 @@
 ---
 title: "\"前沿税\"是一场骗局？——opencodeCLI 社区的定价争议"
 date: "2026-04-20"
+generated: "2026-04-20 07:00"
 source: "Reddit"
 slug: "2026-04-20_07-frontier-tax-scam"
 summary: "2026 年 4 月，Reddit r/opencodeCLI 社区出现了一篇措辞激烈的帖子，直指\"前沿税\"（Frontier Tax）是一场骗局。所谓\"前沿税\"，是指 OpenAI、Anthropic 等厂商对其顶"

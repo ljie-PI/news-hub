@@ -1,6 +1,7 @@
 ---
 title: "ClarifierAI for iOS 深度调研报告"
 date: "2026-04-13"
+generated: "2026-04-13 00:00"
 source: "PH"
 slug: "2026-04-13_00-clarifierai_for_ios"
 summary: "移动端的写作辅助需求长期存在：在非母语环境下发送工作邮件、在 WhatsApp 或 Slack 中快速润色语气、在约会软件上斟酌措辞。然而，现有方案要么需要"

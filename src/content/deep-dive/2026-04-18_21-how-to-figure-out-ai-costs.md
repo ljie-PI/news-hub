@@ -1,6 +1,7 @@
 ---
 title: "深度解读：AI 成本到底花在了哪里？如何追踪与优化"
 date: "2026-04-18"
+generated: "2026-04-18 21:00"
 source: "Reddit"
 slug: "2026-04-18_21-how-to-figure-out-ai-costs"
 summary: "---"

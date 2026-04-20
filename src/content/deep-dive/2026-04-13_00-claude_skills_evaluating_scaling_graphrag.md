@@ -1,6 +1,7 @@
 ---
 title: "Claude Skills、评估、扩展与 GraphRAG：企业级 Agent 落地的四个痛点"
 date: "2026-04-13"
+generated: "2026-04-13 00:00"
 source: "Reddit"
 slug: "2026-04-13_00-claude_skills_evaluating_scaling_graphrag"
 summary: "2026 年 4 月，一位 r/AI_Agents 用户抛出了一连串务实问题：如何在业务工作流中使用 `skills.md`？如何评估 agent 输出——靠标注数据集还是别的方法？扩展 "

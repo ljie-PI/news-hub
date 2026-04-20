@@ -1,6 +1,7 @@
 ---
 title: "FunctionGemma-270m 微调踩坑实录：为什么模型总在\"幻觉\"，不听你的路由逻辑？"
 date: "2026-04-20"
+generated: "2026-04-20 07:00"
 source: "Reddit"
 slug: "2026-04-20_07-functiongemma-finetuning-hallucination"
 summary: "---"

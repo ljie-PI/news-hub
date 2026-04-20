@@ -1,6 +1,7 @@
 ---
 title: "LLM 真的能写好多线叙事的短篇小说吗？"
 date: "2026-04-13"
+generated: "2026-04-13 00:00"
 source: "Reddit"
 slug: "2026-04-13_00-llms_multiplot_short_stories"
 summary: "一位 r/LLM 用户在 2026 年 4 月发帖提出核心疑问：当前模型在单线、提示明确的条件下能写出 decent 的短篇小说，但「anything with multiple interwoven plot threads "

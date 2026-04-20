@@ -1,6 +1,7 @@
 ---
 title: "Sierra 联合创始人：UI 已死？AI Agent 会让传统界面消亡吗"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "Reddit"
 slug: "2026-04-15_09-5_sierra_ui_is_dead"
 summary: "**来源**: r/AI_Agents | 2026-04-14"

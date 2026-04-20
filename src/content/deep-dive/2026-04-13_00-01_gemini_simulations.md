@@ -1,6 +1,7 @@
 ---
 title: "Gemini 交互式 3D 模拟功能深度解析"
 date: "2026-04-13"
+generated: "2026-04-13 00:00"
 source: "PH"
 slug: "2026-04-13_00-01_gemini_simulations"
 summary: "2026 年 4 月 9 日，Google 宣布 Gemini 应用上线「交互式 3D 模型与实时模拟」功能，这是 Google 在生成式 AI 多模态竞赛中的又一重磅落子。此前，Anthropic Clau"

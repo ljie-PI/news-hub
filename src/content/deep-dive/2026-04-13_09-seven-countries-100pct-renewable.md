@@ -1,6 +1,7 @@
 ---
 title: "七国实现 100% 可再生电力：绿色转型里程碑还是统计幻觉？"
 date: "2026-04-13"
+generated: "2026-04-13 09:00"
 source: "HN"
 slug: "2026-04-13_09-seven-countries-100pct-renewable"
 summary: "**日期**: 2026-04-13 | **来源**: Hacker News | **票数**: 425 | **评论**: 205"

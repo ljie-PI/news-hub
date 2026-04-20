@@ -1,6 +1,7 @@
 ---
 title: "OpenAI从禁止军事用途到部署五角大楼机密网络——240万用户抵制事件深度解析"
 date: "2026-04-17"
+generated: "2026-04-17 09:00"
 source: "Reddit"
 slug: "2026-04-17_09-openai_pentagon_boycott"
 summary: "---"

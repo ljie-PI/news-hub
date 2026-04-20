@@ -1,6 +1,7 @@
 ---
 title: "Anthropic 封禁 OpenClaw 创始人账号事件深度报告"
 date: "2026-04-13"
+generated: "2026-04-13 09:00"
 source: "Reddit"
 slug: "2026-04-13_09-anthropic_openclaw_suspension"
 summary: "**来源**: r/AI_Agents | **日期**: 2026-04-13"

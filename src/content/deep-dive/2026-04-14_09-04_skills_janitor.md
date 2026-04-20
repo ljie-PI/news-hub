@@ -1,6 +1,7 @@
 ---
 title: "Skills Janitor（154票）"
 date: "2026-04-14"
+generated: "2026-04-14 09:00"
 source: "PH"
 slug: "2026-04-14_09-04_skills_janitor"
 summary: "**Product Hunt 排名：#4 | 2026-04-14**"

@@ -1,6 +1,7 @@
 ---
 title: "Notebooks in Gemini：Google 将知识管理与 AI 对话深度融合"
 date: "2026-04-18"
+generated: "2026-04-18 21:00"
 source: "PH"
 slug: "2026-04-18_21-notebooks-in-gemini"
 summary: "2026 年 4 月 9 日，Google 正式发布了 Gemini 应用中的 **Notebooks（笔记本）** 功能，并同步上线 Product Hunt（PH 评分 4.86，133 票）。这一功能的核心定位是：**"

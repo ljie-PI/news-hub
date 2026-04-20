@@ -1,6 +1,7 @@
 ---
 title: "开源模型推理服务商怎么选？OpenCode 社区的实战讨论"
 date: "2026-04-20"
+generated: "2026-04-20 07:00"
 source: "Reddit"
 slug: "2026-04-20_07-which-openweight-models-provider"
 summary: "---"

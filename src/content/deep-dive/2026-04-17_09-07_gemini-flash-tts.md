@@ -1,6 +1,7 @@
 ---
 title: "Google Gemini 3.1 Flash TTS：自然语言控制的语音合成 API"
 date: "2026-04-17"
+generated: "2026-04-17 09:00"
 source: "PH"
 slug: "2026-04-17_09-07_gemini-flash-tts"
 summary: "Google 推出了 Gemini 3.1 Flash TTS API，一款支持自然语言语音指导、多说话人对话和 70+ 语言的文本转语音 API。产品通过 Gemini API 和 Vertex AI 提供服务，在 Pro"

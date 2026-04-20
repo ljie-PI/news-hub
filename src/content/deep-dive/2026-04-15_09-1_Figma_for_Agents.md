@@ -1,6 +1,7 @@
 ---
 title: "1. Figma for Agents — Design with AI agents, connected to your design system"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "PH"
 slug: "2026-04-15_09-1_Figma_for_Agents"
 summary: "**Product Hunt 排名：#1 | 票数：428 | 分类：Design Tools / Developer Tools / AI**"

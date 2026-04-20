@@ -1,6 +1,7 @@
 ---
 title: "水稻叶片病害检测算法选型：EfficientNetB0 vs YOLOv5 的社区讨论"
 date: "2026-04-19"
+generated: "2026-04-19 07:00"
 source: "Reddit"
 slug: "2026-04-19_07-rice-leaf-disease-detection-algorithm"
 summary: "近日，Reddit 计算机视觉社区（r/computervision）一位用户发帖求助，标题为\"Recommend an Algorithm for Image-based Classification\"。该用户正在构建一套**水稻叶片病害"

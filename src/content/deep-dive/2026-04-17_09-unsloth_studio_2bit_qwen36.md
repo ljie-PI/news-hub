@@ -1,6 +1,7 @@
 ---
 title: "Unsloth Studio 2-bit Qwen3.6做了30个工具调用：极限压缩模型的能力边界在哪里？"
 date: "2026-04-17"
+generated: "2026-04-17 09:00"
 source: "Reddit"
 slug: "2026-04-17_09-unsloth_studio_2bit_qwen36"
 summary: "---"

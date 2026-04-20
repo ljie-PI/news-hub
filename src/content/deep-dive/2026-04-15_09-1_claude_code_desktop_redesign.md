@@ -1,6 +1,7 @@
 ---
 title: "Claude Code 桌面端全面重设计：多会话并行、集成终端与 HTML/PDF 预览"
 date: "2026-04-15"
+generated: "2026-04-15 09:00"
 source: "Reddit"
 slug: "2026-04-15_09-1_claude_code_desktop_redesign"
 summary: "**来源**: r/ClaudeCode | 2026-04-14"

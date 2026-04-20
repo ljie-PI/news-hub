@@ -1,6 +1,7 @@
 ---
 title: "GitHub Copilot 上下文压缩（Context Compaction）与\"AI 遗忘症\"深度解读"
 date: "2026-04-20"
+generated: "2026-04-20 07:00"
 source: "Reddit"
 slug: "2026-04-20_07-context-compaction-avoid-amnesia"
 summary: "---"

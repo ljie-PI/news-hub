@@ -1,6 +1,7 @@
 ---
 title: "美国《父母决定法案》：以保护儿童之名，建设全民身份监控基础设施？"
 date: "2026-04-18"
+generated: "2026-04-18 21:00"
 source: "HN"
 slug: "2026-04-18_21-us-bill-on-device-age-verification"
 summary: "2026年4月13日，美国众议员 Josh Gottheimer 提出了编号为 H.R. 8250 的《父母决定法案》(Parents Decide Act)。该法案要求所有操作系统提供商（主要指向 Apple 和 Go"

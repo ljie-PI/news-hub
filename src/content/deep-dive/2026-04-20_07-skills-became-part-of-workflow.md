@@ -1,6 +1,7 @@
 ---
 title: "OpenCode CLI 社区热议：哪些 Skills 已经融入了你的开发工作流？"
 date: "2026-04-20"
+generated: "2026-04-20 07:00"
 source: "Reddit"
 slug: "2026-04-20_07-skills-became-part-of-workflow"
 summary: "2026 年初以来，OpenCode CLI 作为开源 AI 编程助手迅速崛起，其 **Skills 系统**（技能系统）成为社区最活跃的讨论话题之一。Skills 允许开发者通过 `SKILL.md` "

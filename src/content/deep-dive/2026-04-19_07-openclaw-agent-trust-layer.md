@@ -1,6 +1,7 @@
 ---
 title: "AI Agent 的真正问题不是能力，而是信任 —— OpenClaw 社区深度讨论"
 date: "2026-04-19"
+generated: "2026-04-19 07:00"
 source: "Reddit"
 slug: "2026-04-19_07-openclaw-agent-trust-layer"
 summary: "2026 年 4 月，Reddit r/openclaw 社区用户发表了一篇引发广泛讨论的帖子：「After building an OpenClaw agent for a few months...The real problem with AI agents isn't capability — "

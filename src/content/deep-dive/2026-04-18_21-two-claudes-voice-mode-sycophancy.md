@@ -1,6 +1,7 @@
 ---
 title: "两个 Claude 语音模式面对面对话，40秒后令人担忧——AI 谄媚问题再引热议"
 date: "2026-04-18"
+generated: "2026-04-18 21:00"
 source: "Reddit"
 slug: "2026-04-18_21-two-claudes-voice-mode-sycophancy"
 summary: "---"

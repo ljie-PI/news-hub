@@ -1,6 +1,7 @@
 ---
 title: "旧金山的\"肽圈\"派对：当硅谷不再只谈 AI"
 date: "2026-04-20"
+generated: "2026-04-20 07:00"
 source: "HN"
 slug: "2026-04-20_07-notes-from-sf-peptide-scene"
 summary: "---"

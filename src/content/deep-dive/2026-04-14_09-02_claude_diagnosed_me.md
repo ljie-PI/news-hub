@@ -1,6 +1,7 @@
 ---
 title: "Claude diagnosed me when my doctor wouldn't"
 date: "2026-04-14"
+generated: "2026-04-14 09:00"
 source: "Reddit"
 slug: "2026-04-14_09-02_claude_diagnosed_me"
 summary: "**来源**: r/ClaudeAI  "

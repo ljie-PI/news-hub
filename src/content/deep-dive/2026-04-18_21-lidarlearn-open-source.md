@@ -1,6 +1,7 @@
 ---
 title: "LIDARLearn 开源：3D 点云深度学习终于有了\"大一统\"框架"
 date: "2026-04-18"
+generated: "2026-04-18 21:00"
 source: "Reddit"
 slug: "2026-04-18_21-lidarlearn-open-source"
 summary: "2026 年 4 月，研究者 Said Ohamouddou 在 Reddit r/MachineLearning 宣布开源 **LIDARLearn**——一个基于 PyTorch 的统一 3D 点云深度学习库，同步在 arXiv 发布了论文（arX"

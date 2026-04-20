@@ -1,6 +1,7 @@
 ---
 title: "AI 将遭遇暴力，且不会有好结果——当算法革命撞上卢德主义幽灵"
 date: "2026-04-13"
+generated: "2026-04-13 00:00"
 source: "HN"
 slug: "2026-04-13_00-ai_will_be_met_with_violence"
 summary: "The Algorithmic Bridge 发表了一篇极具争议的文章，标题直白而惊悚：《AI Will Be Met with Violence, and Nothing Good Will Come of It》。作者开篇用了一个历史隐喻：1812"

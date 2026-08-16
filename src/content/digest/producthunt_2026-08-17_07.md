@@ -1,0 +1,385 @@
+---
+title: "Product Hunt 日报 2026-08-17"
+date: "2026-08-17"
+generated: "2026-08-17 07:00"
+source: "PH"
+slug: "producthunt_2026-08-17_07"
+---
+
+---
+title: "Product Hunt 全量报告 — 2026-08-17_07"
+date: "2026-08-17T07:00:00+08:00"
+source: "producthunt"
+slug: "producthunt-2026-08-17_07"
+---
+
+# Product Hunt 全量报告 — 2026-08-17_07
+
+覆盖时间范围：过去 24 小时（截至北京时间 2026-08-17 07:00，UTC+8）
+
+数据范围：当日榜与本周榜，共 60 条；条目按原始数组完整列出。
+
+## 当日榜（30 条）
+
+### Blume
+
+- 链接: https://www.producthunt.com/products/blume-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 1。公开数据记录 241 个支持、9 条评论以及 0 条评价，评分字段为 0.0。条目关联 1 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### HarnessRouter Community Edition
+
+- 链接: https://www.producthunt.com/products/epsilla?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 2。公开数据记录 230 个支持、28 条评论以及 1 条评价，评分字段为 5.0。条目关联 4 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Expeditione
+
+- 链接: https://www.producthunt.com/products/expeditione?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 3。公开数据记录 226 个支持、28 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Vidaya
+
+- 链接: https://www.producthunt.com/products/vidaya?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 4。公开数据记录 183 个支持、15 条评论以及 1 条评价，评分字段为 5.0。条目关联 4 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Chert
+
+- 链接: https://www.producthunt.com/products/chert?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 5。公开数据记录 166 个支持、19 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### AirAlarm
+
+- 链接: https://www.producthunt.com/products/airalarm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 6。公开数据记录 115 个支持、7 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### CostLogic
+
+- 链接: https://www.producthunt.com/products/costlogic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 7。公开数据记录 105 个支持、1 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Vaaya
+
+- 链接: https://www.producthunt.com/products/vaaya?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 8。公开数据记录 42 个支持、5 条评论以及 1 条评价，评分字段为 5.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Mac Developer Bridge
+
+- 链接: https://www.producthunt.com/products/mac-developer-bridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 9。公开数据记录 13 个支持、1 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Assetli.app
+
+- 链接: https://www.producthunt.com/products/assetli-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 10。公开数据记录 12 个支持、1 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Yap - Voice Diary
+
+- 链接: https://www.producthunt.com/products/yap-voice-diary?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 11。公开数据记录 8 个支持、7 条评论以及 2 条评价，评分字段为 5.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Nthly - 2FA Authenticator
+
+- 链接: https://www.producthunt.com/products/nthly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 12。公开数据记录 8 个支持、3 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Scaloom
+
+- 链接: https://www.producthunt.com/products/scaloom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 13。公开数据记录 8 个支持、1 条评论以及 3 条评价，评分字段为 2.33。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Make it RAIN
+
+- 链接: https://www.producthunt.com/products/make-it-rain-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 14。公开数据记录 7 个支持、5 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Interview Agent by NexI
+
+- 链接: https://www.producthunt.com/products/interview-agent-by-nexi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 15。公开数据记录 6 个支持、1 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### ShouldBuild
+
+- 链接: https://www.producthunt.com/products/shouldbuild?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 16。公开数据记录 5 个支持、5 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### GetAppNiche
+
+- 链接: https://www.producthunt.com/products/getappniche?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 17。公开数据记录 5 个支持、1 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### AlsonAI Poetry
+
+- 链接: https://www.producthunt.com/products/alsonai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 18。公开数据记录 5 个支持、1 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Fabbit
+
+- 链接: https://www.producthunt.com/products/fabbit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 19。公开数据记录 5 个支持、1 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### PixelGlass
+
+- 链接: https://www.producthunt.com/products/pixelglass?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 20。公开数据记录 5 个支持、0 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Whimscope App
+
+- 链接: https://www.producthunt.com/products/whimscope?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 21。公开数据记录 4 个支持、1 条评论以及 0 条评价，评分字段为 0.0。条目关联 4 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Harbor ATS/CRM
+
+- 链接: https://www.producthunt.com/products/harbor-ats-crm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 22。公开数据记录 4 个支持、1 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Asakiri Studio
+
+- 链接: https://www.producthunt.com/products/asakiri?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 23。公开数据记录 4 个支持、1 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### VoicePen AI
+
+- 链接: https://www.producthunt.com/products/voicepen-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 24。公开数据记录 4 个支持、1 条评论以及 0 条评价，评分字段为 0.0。条目关联 2 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Vessa
+
+- 链接: https://www.producthunt.com/products/vessa?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 25。公开数据记录 3 个支持、1 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Nadhi Audit
+
+- 链接: https://www.producthunt.com/products/nadhi-audit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 26。公开数据记录 3 个支持、1 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Subscrr
+
+- 链接: https://www.producthunt.com/products/subscrrr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 27。公开数据记录 3 个支持、1 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Paperditor – free Markdown editor
+
+- 链接: https://www.producthunt.com/products/paperditor-free-markdown-editor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 28。公开数据记录 3 个支持、1 条评论以及 0 条评价，评分字段为 0.0。条目关联 4 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### OnePageCanvas
+
+- 链接: https://www.producthunt.com/products/onepagecanvas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 29。公开数据记录 3 个支持、1 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Duesteer
+
+- 链接: https://www.producthunt.com/products/duesteer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 29。公开数据记录 3 个支持、1 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+## 本周榜（30 条）
+
+### Dograh
+
+- 链接: https://www.producthunt.com/products/dograh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 1。公开数据记录 545 个支持、155 条评论以及 0 条评价，评分字段为 0.0。条目关联 4 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Grok Bot
+
+- 链接: https://www.producthunt.com/products/grok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 2。公开数据记录 496 个支持、20 条评论以及 16 条评价，评分字段为 4.69。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Kane CLI
+
+- 链接: https://www.producthunt.com/products/lambdatest?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 1。公开数据记录 459 个支持、56 条评论以及 12 条评价，评分字段为 4.75。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Ito
+
+- 链接: https://www.producthunt.com/products/ito-ai-code-review-that-runs-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 2。公开数据记录 445 个支持、47 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Tines 3B
+
+- 链接: https://www.producthunt.com/products/tines?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 1。公开数据记录 415 个支持、42 条评论以及 1 条评价，评分字段为 5.0。条目关联 2 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Lettertrace
+
+- 链接: https://www.producthunt.com/products/lettertrace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 3。公开数据记录 386 个支持、59 条评论以及 0 条评价，评分字段为 0.0。条目关联 4 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Nuphos
+
+- 链接: https://www.producthunt.com/products/nuphos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 3。公开数据记录 380 个支持、79 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Outcome
+
+- 链接: https://www.producthunt.com/products/contentblocks?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 1。公开数据记录 372 个支持、54 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### oqoqo
+
+- 链接: https://www.producthunt.com/products/oqoqo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 1。公开数据记录 355 个支持、39 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Scrimba Explain
+
+- 链接: https://www.producthunt.com/products/scrimba?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 4。公开数据记录 322 个支持、33 条评论以及 78 条评价，评分字段为 4.94。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### BetterClaw
+
+- 链接: https://www.producthunt.com/products/betterclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 2。公开数据记录 317 个支持、71 条评论以及 13 条评价，评分字段为 5.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Portfolio Lab
+
+- 链接: https://www.producthunt.com/products/portfolio-lab?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 2。公开数据记录 313 个支持、30 条评论以及 1 条评价，评分字段为 5.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Freebuff
+
+- 链接: https://www.producthunt.com/products/freebuff-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 3。公开数据记录 309 个支持、44 条评论以及 5 条评价，评分字段为 4.6。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Inferock Bench
+
+- 链接: https://www.producthunt.com/products/inferock-bench?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 1。公开数据记录 297 个支持、57 条评论以及 1 条评价，评分字段为 4.0。条目关联 4 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### BrowserAct Cloud
+
+- 链接: https://www.producthunt.com/products/browseract?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 2。公开数据记录 284 个支持、38 条评论以及 1 条评价，评分字段为 5.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Xirp
+
+- 链接: https://www.producthunt.com/products/spotify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 3。公开数据记录 283 个支持、6 条评论以及 584 条评价，评分字段为 4.67。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Human Behavior
+
+- 链接: https://www.producthunt.com/products/human-behavior?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 5。公开数据记录 273 个支持、18 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Paritok
+
+- 链接: https://www.producthunt.com/products/paritok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 3。公开数据记录 265 个支持、28 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Assembly Studio
+
+- 链接: https://www.producthunt.com/products/assembly-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 4。公开数据记录 259 个支持、14 条评论以及 10 条评价，评分字段为 5.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Equitybee Benchmark
+
+- 链接: https://www.producthunt.com/products/equitybee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 4。公开数据记录 247 个支持、38 条评论以及 2 条评价，评分字段为 5.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Oasis
+
+- 链接: https://www.producthunt.com/products/oasis-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 6。公开数据记录 245 个支持、22 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Gemini 3.7 Flash
+
+- 链接: https://www.producthunt.com/products/gemini-3-7-flash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 4。公开数据记录 243 个支持、3 条评论以及 0 条评价，评分字段为 0.0。条目关联 2 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Blume
+
+- 链接: https://www.producthunt.com/products/blume-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 1。公开数据记录 241 个支持、9 条评论以及 0 条评价，评分字段为 0.0。条目关联 1 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Bullet
+
+- 链接: https://www.producthunt.com/products/bullet-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 5。公开数据记录 239 个支持、41 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### GLM-5.3
+
+- 链接: https://www.producthunt.com/products/z-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 2。公开数据记录 233 个支持、3 条评论以及 6 条评价，评分字段为 4.83。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### HarnessRouter Community Edition
+
+- 链接: https://www.producthunt.com/products/epsilla?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 2。公开数据记录 230 个支持、28 条评论以及 1 条评价，评分字段为 5.0。条目关联 4 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Unsloth Desktop
+
+- 链接: https://www.producthunt.com/products/unsloth?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 5。公开数据记录 229 个支持、2 条评论以及 2 条评价，评分字段为 5.0。条目关联 4 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Expeditione
+
+- 链接: https://www.producthunt.com/products/expeditione?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 3。公开数据记录 226 个支持、28 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### SecondBrain Note by GenSpark
+
+- 链接: https://www.producthunt.com/products/genspark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 4。公开数据记录 221 个支持、12 条评论以及 12 条评价，评分字段为 4.42。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+
+### Big Mike
+
+- 链接: https://www.producthunt.com/products/big-mike?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29
+
+该产品来自新品发现榜，抓取时榜单名次记录为 3。公开数据记录 204 个支持、27 条评论以及 0 条评价，评分字段为 0.0。条目关联 3 个话题标签，并且提供独立官网入口。这些数字反映本次抓取时刻的站内互动，不等同于长期用户规模、收入或技术质量。本简报不直接回填未经逐页核验的英文标语与说明，建议结合产品页、官网、演示和评论进一步判断价值。（摘自 raw）
+

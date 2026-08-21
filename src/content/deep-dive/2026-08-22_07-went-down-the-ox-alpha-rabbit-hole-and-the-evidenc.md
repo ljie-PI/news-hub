@@ -4,7 +4,7 @@ date: "2026-08-22"
 generated: "2026-08-22 07:00"
 source: "Reddit"
 slug: "2026-08-22_07-went-down-the-ox-alpha-rabbit-hole-and-the-evidenc"
-summary: "匿名模型 Ox Alpha 于八月二十日前后出现在 OpenCode 与 OpenRouter，公开页只称其由未具名第三方开发运营。同期智谱刚发布 GLM-5.3：官方称它与 GLM-5.2 共用�"
+summary: "匿名模型 Ox Alpha 于八月二十日前后出现在 OpenCode 与 OpenRouter，公开页只称其由未具名第三方开发运营。同期智谱刚发布 GLM-5.3：官方称它与 GLM-5.2 共用基座，提升来自后训练。帖子据此以分词和接口行为追查身份，但“GLM-5.3 Flash”仍是作者假说，不是官方型号或归属确认。"
 ---
 
 # Went down the Ox Alpha rabbit hole, and the evidence points to GLM-5.3.

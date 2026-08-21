@@ -93,7 +93,9 @@ import_deep_dive() {
   [ -z "$title" ] && title="$basename"
 
   local summary
-  summary=$(awk 'BEGIN{found=0} /^# /{found=1;next} found && /^[^>#\[]/ && NF{print;exit}' "$file" | head -c 200 || echo "")
+  # Keep complete UTF-8 characters. Byte truncation (head -c) can split a CJK
+  # code point and leave invalid UTF-8 in generated Markdown frontmatter.
+  summary=$(awk 'BEGIN{found=0} /^# /{found=1;next} found && /^[^>#\[]/ && NF{print;exit}' "$file" || echo "")
   summary="${summary//\"/\\\"}"
 
   [ -f "$dest" ] && { echo "  skip deep-dive: $slug"; return; }

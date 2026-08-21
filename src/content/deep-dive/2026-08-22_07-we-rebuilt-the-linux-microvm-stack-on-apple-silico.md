@@ -4,7 +4,7 @@ date: "2026-08-22"
 generated: "2026-08-22 07:00"
 source: "HN"
 slug: "2026-08-22_07-we-rebuilt-the-linux-microvm-stack-on-apple-silico"
-summary: "Encore 自二〇二二年起用 Firecracker 微虚拟机隔离后端构建，但它依赖 Linux 的 KVM，团队的苹果芯片笔记本无法直接运行。四年来，工程师只能经由 Tailscale"
+summary: "Encore 自二〇二二年起用 Firecracker 微虚拟机隔离后端构建，但它依赖 Linux 的 KVM，团队的苹果芯片笔记本无法直接运行。四年来，工程师只能经由 Tailscale、SSH 和 rsync 在共享远端主机调试，断点、日志、镜像重建都拖慢反馈。此次文章在冻结快照中获一百四十三分、八十二条评论。"
 ---
 
 # We Rebuilt the Linux MicroVM Stack on Apple Silicon

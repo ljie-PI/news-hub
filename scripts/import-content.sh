@@ -12,6 +12,17 @@ DIGEST_CONTENT="$SITE_DIR/src/content/digest"
 DEEP_DIVE_CONTENT="$SITE_DIR/src/content/deep-dive"
 mkdir -p "$DIGEST_CONTENT" "$DEEP_DIVE_CONTENT"
 
+# Source reports may already carry their own Astro frontmatter. The importer
+# creates canonical frontmatter, so append only the Markdown body to avoid a
+# second YAML block being rendered as page content.
+append_markdown_body() {
+  awk '
+    NR == 1 && $0 == "---" { in_frontmatter = 1; next }
+    in_frontmatter && $0 == "---" { in_frontmatter = 0; next }
+    !in_frontmatter { print }
+  ' "$1"
+}
+
 # ── Digest import ──
 import_digest() {
   local file="$1"
@@ -55,7 +66,7 @@ import_digest() {
     echo "slug: \"$slug\""
     echo "---"
     echo ""
-    cat "$file"
+    append_markdown_body "$file"
   } > "$dest"
   echo "  added digest: $slug"
 }
@@ -110,7 +121,7 @@ import_deep_dive() {
     [ -n "$summary" ] && echo "summary: \"$summary\""
     echo "---"
     echo ""
-    cat "$file"
+    append_markdown_body "$file"
   } > "$dest"
   echo "  added deep-dive: $slug"
 }
